@@ -1,0 +1,1001 @@
+Transaction_ID,Date_Vente,Produit,Categorie,Quantite,Prix_Unitaire,Total_Vente,Client_ID,Region
+TXN0001,2023-03-25,Téléphone,Électronique,4,200000,800000,CUST4561,Dakar
+TXN0002,2023-03-12,Bureau ergonomique,Mobilier,5,120000,600000,CUST1176,Saint-Louis
+TXN0003,2023-10-30,Montre connectée,Électronique,3,75000,225000,CUST1814,Saint-Louis
+TXN0004,2023-06-08,Téléphone,Électronique,1,200000,200000,CUST9007,Kolda
+TXN0005,2023-02-17,Ordinateur Portable,Électronique,1,350000,350000,CUST3849,Ziguinchor
+TXN0006,2023-02-18,Clavier mécanique,Accessoires,3,50000,150000,CUST8249,Saint-Louis
+TXN0007,2023-09-15,Chaussures de sport,Mode,1,40000,40000,CUST9060,Matam
+TXN0008,2023-01-01,Sac à dos,Mode,1,15000,15000,CUST3309,Tambacounda
+TXN0009,2023-05-25,Ordinateur Portable,Électronique,4,350000,1400000,CUST9050,Kolda
+TXN0010,2023-10-15,Téléphone,Électronique,4,200000,800000,CUST3342,Dakar
+TXN0011,2023-09-04,Téléphone,Électronique,5,200000,1000000,CUST5903,Thiès
+TXN0012,2023-10-04,Montre connectée,Électronique,3,75000,225000,CUST9441,Saint-Louis
+TXN0013,2023-04-09,Chaussures de sport,Mode,5,40000,200000,CUST7859,Kolda
+TXN0014,2023-04-17,Bureau ergonomique,Mobilier,5,120000,600000,CUST5157,Thiès
+TXN0015,2023-04-08,Télévision LED,Électronique,3,450000,1350000,CUST4220,Saint-Louis
+TXN0016,2023-08-03,Bureau ergonomique,Mobilier,2,120000,240000,CUST7202,Kolda
+TXN0017,2023-10-21,Télévision LED,Électronique,4,450000,1800000,CUST9443,Kaolack
+TXN0018,2023-03-04,Sac à dos,Mode,5,15000,75000,CUST8228,Kolda
+TXN0019,2023-08-06,Clavier mécanique,Accessoires,2,50000,100000,CUST9489,Ziguinchor
+TXN0020,2023-12-16,Téléphone,Électronique,1,200000,200000,CUST6906,Ziguinchor
+TXN0021,2023-11-15,Clavier mécanique,Accessoires,3,50000,150000,CUST3840,Saint-Louis
+TXN0022,2023-10-03,Clavier mécanique,Accessoires,5,50000,250000,CUST2342,Saint-Louis
+TXN0023,2023-01-03,Télévision LED,Électronique,3,450000,1350000,CUST4873,Kolda
+TXN0024,2023-06-14,Casque Bluetooth,Accessoires,2,25000,50000,CUST5221,Kolda
+TXN0025,2023-06-23,Casque Bluetooth,Accessoires,4,25000,100000,CUST7379,Matam
+TXN0026,2023-11-09,Ordinateur Portable,Électronique,1,350000,350000,CUST4159,Kaolack
+TXN0027,2023-06-16,Bureau ergonomique,Mobilier,3,120000,360000,CUST8962,Thiès
+TXN0028,2023-04-10,Télévision LED,Électronique,1,450000,450000,CUST8747,Kolda
+TXN0029,2023-06-03,Clavier mécanique,Accessoires,5,50000,250000,CUST1401,Tambacounda
+TXN0030,2023-07-27,Télévision LED,Électronique,1,450000,450000,CUST6018,Saint-Louis
+TXN0031,2023-12-08,Clavier mécanique,Accessoires,2,50000,100000,CUST4775,Thiès
+TXN0032,2023-08-20,Clavier mécanique,Accessoires,3,50000,150000,CUST9406,Kaolack
+TXN0033,2023-01-08,Casque Bluetooth,Accessoires,2,25000,50000,CUST4261,Thiès
+TXN0034,2023-04-10,Chaussures de sport,Mode,3,40000,120000,CUST3828,Kaolack
+TXN0035,2023-03-01,Ordinateur Portable,Électronique,1,350000,350000,CUST9325,Thiès
+TXN0036,2023-01-21,Sac à dos,Mode,4,15000,60000,CUST2135,Tambacounda
+TXN0037,2023-12-30,Livre de développement personnel,Livres,4,10000,40000,CUST1946,Saint-Louis
+TXN0038,2023-05-28,Livre de développement personnel,Livres,4,10000,40000,CUST9996,Dakar
+TXN0039,2023-01-02,Sac à dos,Mode,5,15000,75000,CUST9883,Tambacounda
+TXN0040,2023-02-16,Sac à dos,Mode,5,15000,75000,CUST7722,Kaolack
+TXN0041,2023-09-19,Livre de développement personnel,Livres,2,10000,20000,CUST3175,Saint-Louis
+TXN0042,2023-05-22,Téléphone,Électronique,5,200000,1000000,CUST1599,Kaolack
+TXN0043,2023-06-03,Bureau ergonomique,Mobilier,5,120000,600000,CUST5412,Dakar
+TXN0044,2023-11-08,Livre de développement personnel,Livres,2,10000,20000,CUST1451,Kaolack
+TXN0045,2023-04-17,Sac à dos,Mode,5,15000,75000,CUST9118,Ziguinchor
+TXN0046,2023-07-02,Ordinateur Portable,Électronique,2,350000,700000,CUST2000,Matam
+TXN0047,2023-08-01,Casque Bluetooth,Accessoires,3,25000,75000,CUST1891,Dakar
+TXN0048,2023-02-01,Casque Bluetooth,Accessoires,4,25000,100000,CUST8881,Thiès
+TXN0049,2023-08-07,Livre de développement personnel,Livres,1,10000,10000,CUST6511,Tambacounda
+TXN0050,2023-07-13,Clavier mécanique,Accessoires,4,50000,200000,CUST7381,Dakar
+TXN0051,2023-06-07,Sac à dos,Mode,1,15000,15000,CUST1279,Kolda
+TXN0052,2023-08-18,Téléphone,Électronique,5,200000,1000000,CUST7381,Thiès
+TXN0053,2023-03-22,Casque Bluetooth,Accessoires,2,25000,50000,CUST2803,Ziguinchor
+TXN0054,2023-05-31,Téléphone,Électronique,3,200000,600000,CUST1474,Ziguinchor
+TXN0055,2023-10-06,Chaussures de sport,Mode,5,40000,200000,CUST5776,Kolda
+TXN0056,2023-04-30,Ordinateur Portable,Électronique,1,350000,350000,CUST9996,Saint-Louis
+TXN0057,2023-12-12,Clavier mécanique,Accessoires,4,50000,200000,CUST9200,Tambacounda
+TXN0058,2023-02-06,Casque Bluetooth,Accessoires,5,25000,125000,CUST2506,Kaolack
+TXN0059,2023-11-09,Casque Bluetooth,Accessoires,2,25000,50000,CUST9658,Kaolack
+TXN0060,2023-07-27,Bureau ergonomique,Mobilier,2,120000,240000,CUST5190,Kolda
+TXN0061,2023-04-02,Sac à dos,Mode,1,15000,15000,CUST3154,Matam
+TXN0062,2023-10-22,Téléphone,Électronique,5,200000,1000000,CUST3291,Thiès
+TXN0063,2023-12-19,Clavier mécanique,Accessoires,1,50000,50000,CUST9738,Kaolack
+TXN0064,2023-02-24,Télévision LED,Électronique,3,450000,1350000,CUST2164,Saint-Louis
+TXN0065,2023-05-14,Casque Bluetooth,Accessoires,3,25000,75000,CUST5853,Matam
+TXN0066,2023-11-29,Montre connectée,Électronique,5,75000,375000,CUST7126,Kaolack
+TXN0067,2023-11-06,Téléphone,Électronique,5,200000,1000000,CUST8653,Saint-Louis
+TXN0068,2023-03-17,Chaussures de sport,Mode,4,40000,160000,CUST5220,Thiès
+TXN0069,2023-07-03,Bureau ergonomique,Mobilier,3,120000,360000,CUST3668,Matam
+TXN0070,2023-08-10,Ordinateur Portable,Électronique,4,350000,1400000,CUST9040,Dakar
+TXN0071,2023-10-17,Télévision LED,Électronique,1,450000,450000,CUST8673,Saint-Louis
+TXN0072,2023-12-12,Sac à dos,Mode,2,15000,30000,CUST8041,Thiès
+TXN0073,2023-04-07,Télévision LED,Électronique,3,450000,1350000,CUST6619,Ziguinchor
+TXN0074,2023-04-22,Bureau ergonomique,Mobilier,2,120000,240000,CUST6698,Ziguinchor
+TXN0075,2023-07-09,Clavier mécanique,Accessoires,2,50000,100000,CUST6405,Kaolack
+TXN0076,2023-05-02,Sac à dos,Mode,4,15000,60000,CUST5516,Ziguinchor
+TXN0077,2023-01-07,Livre de développement personnel,Livres,1,10000,10000,CUST2917,Thiès
+TXN0078,2023-06-11,Chaussures de sport,Mode,3,40000,120000,CUST5514,Kaolack
+TXN0079,2023-10-11,Téléphone,Électronique,1,200000,200000,CUST2822,Tambacounda
+TXN0080,2023-10-21,Chaussures de sport,Mode,3,40000,120000,CUST1382,Kaolack
+TXN0081,2023-08-03,Téléphone,Électronique,1,200000,200000,CUST4514,Thiès
+TXN0082,2023-04-16,Montre connectée,Électronique,2,75000,150000,CUST9825,Matam
+TXN0083,2023-03-24,Clavier mécanique,Accessoires,5,50000,250000,CUST4441,Kaolack
+TXN0084,2023-05-02,Sac à dos,Mode,1,15000,15000,CUST5978,Ziguinchor
+TXN0085,2023-08-11,Bureau ergonomique,Mobilier,4,120000,480000,CUST2564,Tambacounda
+TXN0086,2023-10-01,Bureau ergonomique,Mobilier,5,120000,600000,CUST4548,Thiès
+TXN0087,2023-05-29,Montre connectée,Électronique,1,75000,75000,CUST7473,Ziguinchor
+TXN0088,2023-02-22,Bureau ergonomique,Mobilier,1,120000,120000,CUST3810,Matam
+TXN0089,2023-02-08,Téléphone,Électronique,3,200000,600000,CUST3138,Saint-Louis
+TXN0090,2023-12-18,Clavier mécanique,Accessoires,5,50000,250000,CUST9029,Matam
+TXN0091,2023-04-06,Livre de développement personnel,Livres,5,10000,50000,CUST3280,Thiès
+TXN0092,2023-11-13,Casque Bluetooth,Accessoires,2,25000,50000,CUST3856,Kaolack
+TXN0093,2023-05-12,Casque Bluetooth,Accessoires,1,25000,25000,CUST4980,Matam
+TXN0094,2023-03-09,Montre connectée,Électronique,1,75000,75000,CUST7333,Matam
+TXN0095,2023-01-29,Ordinateur Portable,Électronique,5,350000,1750000,CUST4172,Kaolack
+TXN0096,2023-03-25,Casque Bluetooth,Accessoires,5,25000,125000,CUST2832,Ziguinchor
+TXN0097,2023-08-08,Téléphone,Électronique,2,200000,400000,CUST9861,Kolda
+TXN0098,2023-02-08,Sac à dos,Mode,2,15000,30000,CUST1043,Kaolack
+TXN0099,2023-08-10,Télévision LED,Électronique,5,450000,2250000,CUST1583,Kolda
+TXN0100,2023-06-05,Ordinateur Portable,Électronique,5,350000,1750000,CUST2027,Kaolack
+TXN0101,2023-06-25,Chaussures de sport,Mode,2,40000,80000,CUST3514,Dakar
+TXN0102,2023-05-22,Montre connectée,Électronique,2,75000,150000,CUST7507,Saint-Louis
+TXN0103,2023-10-12,Casque Bluetooth,Accessoires,2,25000,50000,CUST3216,Tambacounda
+TXN0104,2023-08-23,Téléphone,Électronique,2,200000,400000,CUST7643,Dakar
+TXN0105,2023-05-14,Casque Bluetooth,Accessoires,3,25000,75000,CUST2057,Ziguinchor
+TXN0106,2023-11-10,Clavier mécanique,Accessoires,5,50000,250000,CUST7825,Tambacounda
+TXN0107,2023-07-30,Ordinateur Portable,Électronique,3,350000,1050000,CUST4881,Ziguinchor
+TXN0108,2023-09-09,Bureau ergonomique,Mobilier,5,120000,600000,CUST7883,Matam
+TXN0109,2023-09-20,Montre connectée,Électronique,2,75000,150000,CUST3646,Kaolack
+TXN0110,2023-12-06,Montre connectée,Électronique,2,75000,150000,CUST3508,Kaolack
+TXN0111,2023-08-22,Clavier mécanique,Accessoires,1,50000,50000,CUST4832,Tambacounda
+TXN0112,2023-08-01,Livre de développement personnel,Livres,5,10000,50000,CUST3540,Saint-Louis
+TXN0113,2023-02-18,Télévision LED,Électronique,3,450000,1350000,CUST2110,Kaolack
+TXN0114,2023-05-21,Sac à dos,Mode,5,15000,75000,CUST8848,Matam
+TXN0115,2023-03-25,Sac à dos,Mode,4,15000,60000,CUST6056,Matam
+TXN0116,2023-07-05,Télévision LED,Électronique,4,450000,1800000,CUST6830,Matam
+TXN0117,2023-02-27,Montre connectée,Électronique,3,75000,225000,CUST4944,Tambacounda
+TXN0118,2023-12-01,Téléphone,Électronique,3,200000,600000,CUST1154,Matam
+TXN0119,2023-06-22,Casque Bluetooth,Accessoires,5,25000,125000,CUST7093,Tambacounda
+TXN0120,2023-02-03,Chaussures de sport,Mode,3,40000,120000,CUST5894,Tambacounda
+TXN0121,2023-05-12,Bureau ergonomique,Mobilier,2,120000,240000,CUST8950,Thiès
+TXN0122,2023-09-04,Sac à dos,Mode,2,15000,30000,CUST1065,Kaolack
+TXN0123,2023-03-18,Ordinateur Portable,Électronique,4,350000,1400000,CUST4713,Matam
+TXN0124,2023-10-13,Montre connectée,Électronique,3,75000,225000,CUST6110,Thiès
+TXN0125,2023-09-18,Livre de développement personnel,Livres,1,10000,10000,CUST8599,Kolda
+TXN0126,2023-11-02,Livre de développement personnel,Livres,2,10000,20000,CUST5104,Saint-Louis
+TXN0127,2023-02-27,Télévision LED,Électronique,4,450000,1800000,CUST8781,Kaolack
+TXN0128,2023-12-20,Télévision LED,Électronique,3,450000,1350000,CUST3936,Matam
+TXN0129,2023-05-16,Télévision LED,Électronique,3,450000,1350000,CUST3970,Kolda
+TXN0130,2023-04-13,Télévision LED,Électronique,3,450000,1350000,CUST3762,Dakar
+TXN0131,2023-11-14,Ordinateur Portable,Électronique,2,350000,700000,CUST3405,Thiès
+TXN0132,2023-03-04,Livre de développement personnel,Livres,1,10000,10000,CUST8560,Ziguinchor
+TXN0133,2023-06-03,Montre connectée,Électronique,3,75000,225000,CUST4610,Tambacounda
+TXN0134,2023-01-22,Bureau ergonomique,Mobilier,1,120000,120000,CUST7371,Ziguinchor
+TXN0135,2023-12-02,Livre de développement personnel,Livres,5,10000,50000,CUST9563,Kolda
+TXN0136,2023-12-13,Clavier mécanique,Accessoires,3,50000,150000,CUST5439,Matam
+TXN0137,2023-11-24,Montre connectée,Électronique,4,75000,300000,CUST3695,Tambacounda
+TXN0138,2023-09-22,Casque Bluetooth,Accessoires,5,25000,125000,CUST2475,Kolda
+TXN0139,2023-02-06,Montre connectée,Électronique,3,75000,225000,CUST5930,Kolda
+TXN0140,2023-03-31,Clavier mécanique,Accessoires,2,50000,100000,CUST2962,Kolda
+TXN0141,2023-12-08,Télévision LED,Électronique,1,450000,450000,CUST1710,Dakar
+TXN0142,2023-03-18,Montre connectée,Électronique,5,75000,375000,CUST5393,Kaolack
+TXN0143,2023-03-09,Livre de développement personnel,Livres,2,10000,20000,CUST7236,Kolda
+TXN0144,2023-03-31,Téléphone,Électronique,3,200000,600000,CUST2141,Thiès
+TXN0145,2023-01-05,Chaussures de sport,Mode,2,40000,80000,CUST7601,Saint-Louis
+TXN0146,2023-06-12,Chaussures de sport,Mode,4,40000,160000,CUST4105,Thiès
+TXN0147,2023-05-20,Livre de développement personnel,Livres,2,10000,20000,CUST7351,Dakar
+TXN0148,2023-07-27,Sac à dos,Mode,2,15000,30000,CUST7516,Thiès
+TXN0149,2023-05-03,Bureau ergonomique,Mobilier,3,120000,360000,CUST4185,Kolda
+TXN0150,2023-07-25,Chaussures de sport,Mode,5,40000,200000,CUST1716,Kolda
+TXN0151,2023-01-05,Bureau ergonomique,Mobilier,5,120000,600000,CUST8185,Tambacounda
+TXN0152,2023-11-15,Clavier mécanique,Accessoires,2,50000,100000,CUST1571,Tambacounda
+TXN0153,2023-08-18,Chaussures de sport,Mode,5,40000,200000,CUST8249,Ziguinchor
+TXN0154,2023-11-18,Livre de développement personnel,Livres,4,10000,40000,CUST8797,Matam
+TXN0155,2023-03-20,Montre connectée,Électronique,1,75000,75000,CUST2121,Saint-Louis
+TXN0156,2023-01-01,Clavier mécanique,Accessoires,3,50000,150000,CUST9446,Matam
+TXN0157,2023-01-13,Clavier mécanique,Accessoires,1,50000,50000,CUST7915,Thiès
+TXN0158,2023-02-02,Sac à dos,Mode,1,15000,15000,CUST9003,Thiès
+TXN0159,2023-05-17,Livre de développement personnel,Livres,3,10000,30000,CUST3011,Dakar
+TXN0160,2023-07-13,Ordinateur Portable,Électronique,2,350000,700000,CUST6171,Matam
+TXN0161,2023-01-04,Télévision LED,Électronique,1,450000,450000,CUST4207,Ziguinchor
+TXN0162,2023-06-06,Chaussures de sport,Mode,2,40000,80000,CUST5229,Saint-Louis
+TXN0163,2023-04-05,Télévision LED,Électronique,4,450000,1800000,CUST4780,Ziguinchor
+TXN0164,2023-06-28,Ordinateur Portable,Électronique,4,350000,1400000,CUST4288,Matam
+TXN0165,2023-07-20,Téléphone,Électronique,1,200000,200000,CUST8761,Ziguinchor
+TXN0166,2023-01-16,Montre connectée,Électronique,3,75000,225000,CUST1174,Kaolack
+TXN0167,2023-02-09,Casque Bluetooth,Accessoires,4,25000,100000,CUST4752,Kaolack
+TXN0168,2023-11-01,Casque Bluetooth,Accessoires,3,25000,75000,CUST6901,Kaolack
+TXN0169,2023-12-01,Montre connectée,Électronique,5,75000,375000,CUST8622,Kaolack
+TXN0170,2023-10-12,Casque Bluetooth,Accessoires,4,25000,100000,CUST7303,Kolda
+TXN0171,2023-12-12,Chaussures de sport,Mode,5,40000,200000,CUST9484,Thiès
+TXN0172,2023-11-23,Ordinateur Portable,Électronique,2,350000,700000,CUST6859,Matam
+TXN0173,2023-05-19,Montre connectée,Électronique,5,75000,375000,CUST9826,Dakar
+TXN0174,2023-09-13,Clavier mécanique,Accessoires,1,50000,50000,CUST7654,Matam
+TXN0175,2023-12-06,Montre connectée,Électronique,5,75000,375000,CUST2243,Saint-Louis
+TXN0176,2023-03-23,Clavier mécanique,Accessoires,1,50000,50000,CUST5006,Saint-Louis
+TXN0177,2023-10-10,Livre de développement personnel,Livres,4,10000,40000,CUST4779,Saint-Louis
+TXN0178,2023-04-22,Livre de développement personnel,Livres,2,10000,20000,CUST3667,Matam
+TXN0179,2023-02-12,Télévision LED,Électronique,4,450000,1800000,CUST1866,Dakar
+TXN0180,2023-01-05,Montre connectée,Électronique,3,75000,225000,CUST7300,Ziguinchor
+TXN0181,2023-10-20,Montre connectée,Électronique,5,75000,375000,CUST4204,Saint-Louis
+TXN0182,2023-02-04,Livre de développement personnel,Livres,1,10000,10000,CUST2733,Tambacounda
+TXN0183,2023-03-25,Téléphone,Électronique,4,200000,800000,CUST4256,Matam
+TXN0184,2023-04-21,Sac à dos,Mode,1,15000,15000,CUST5944,Matam
+TXN0185,2023-10-21,Clavier mécanique,Accessoires,5,50000,250000,CUST2886,Saint-Louis
+TXN0186,2023-07-04,Téléphone,Électronique,4,200000,800000,CUST4089,Saint-Louis
+TXN0187,2023-07-05,Télévision LED,Électronique,1,450000,450000,CUST9085,Kaolack
+TXN0188,2023-01-06,Livre de développement personnel,Livres,1,10000,10000,CUST7570,Kolda
+TXN0189,2023-05-27,Bureau ergonomique,Mobilier,4,120000,480000,CUST9506,Thiès
+TXN0190,2023-10-28,Chaussures de sport,Mode,4,40000,160000,CUST2809,Ziguinchor
+TXN0191,2023-06-16,Clavier mécanique,Accessoires,5,50000,250000,CUST3012,Kaolack
+TXN0192,2023-08-24,Clavier mécanique,Accessoires,1,50000,50000,CUST6451,Dakar
+TXN0193,2023-12-10,Casque Bluetooth,Accessoires,2,25000,50000,CUST8053,Dakar
+TXN0194,2023-11-25,Sac à dos,Mode,1,15000,15000,CUST8960,Saint-Louis
+TXN0195,2023-07-09,Bureau ergonomique,Mobilier,5,120000,600000,CUST8765,Kolda
+TXN0196,2023-01-30,Chaussures de sport,Mode,2,40000,80000,CUST3247,Kolda
+TXN0197,2023-02-11,Téléphone,Électronique,5,200000,1000000,CUST3549,Matam
+TXN0198,2023-08-20,Bureau ergonomique,Mobilier,3,120000,360000,CUST2852,Tambacounda
+TXN0199,2023-04-23,Télévision LED,Électronique,4,450000,1800000,CUST7425,Saint-Louis
+TXN0200,2023-06-04,Ordinateur Portable,Électronique,2,350000,700000,CUST2582,Dakar
+TXN0201,2023-04-18,Livre de développement personnel,Livres,3,10000,30000,CUST9041,Ziguinchor
+TXN0202,2023-01-04,Casque Bluetooth,Accessoires,3,25000,75000,CUST6586,Matam
+TXN0203,2023-09-18,Ordinateur Portable,Électronique,1,350000,350000,CUST5035,Dakar
+TXN0204,2023-09-14,Téléphone,Électronique,3,200000,600000,CUST3645,Kolda
+TXN0205,2023-12-12,Livre de développement personnel,Livres,1,10000,10000,CUST4310,Kaolack
+TXN0206,2023-06-13,Ordinateur Portable,Électronique,2,350000,700000,CUST7176,Ziguinchor
+TXN0207,2023-02-14,Télévision LED,Électronique,1,450000,450000,CUST5187,Tambacounda
+TXN0208,2023-05-31,Chaussures de sport,Mode,2,40000,80000,CUST7103,Tambacounda
+TXN0209,2023-01-29,Casque Bluetooth,Accessoires,4,25000,100000,CUST9906,Ziguinchor
+TXN0210,2023-12-11,Télévision LED,Électronique,5,450000,2250000,CUST8729,Matam
+TXN0211,2023-11-02,Livre de développement personnel,Livres,3,10000,30000,CUST5621,Matam
+TXN0212,2023-02-12,Télévision LED,Électronique,3,450000,1350000,CUST3487,Kolda
+TXN0213,2023-06-08,Clavier mécanique,Accessoires,2,50000,100000,CUST7070,Tambacounda
+TXN0214,2023-07-05,Sac à dos,Mode,5,15000,75000,CUST9113,Kolda
+TXN0215,2023-02-21,Sac à dos,Mode,5,15000,75000,CUST7093,Kaolack
+TXN0216,2023-11-25,Livre de développement personnel,Livres,1,10000,10000,CUST5934,Dakar
+TXN0217,2023-12-18,Bureau ergonomique,Mobilier,5,120000,600000,CUST7709,Saint-Louis
+TXN0218,2023-01-02,Livre de développement personnel,Livres,1,10000,10000,CUST1646,Saint-Louis
+TXN0219,2023-07-25,Montre connectée,Électronique,2,75000,150000,CUST4361,Matam
+TXN0220,2023-04-15,Bureau ergonomique,Mobilier,4,120000,480000,CUST2823,Matam
+TXN0221,2023-11-04,Téléphone,Électronique,3,200000,600000,CUST7898,Matam
+TXN0222,2023-06-22,Ordinateur Portable,Électronique,3,350000,1050000,CUST3487,Matam
+TXN0223,2023-08-23,Ordinateur Portable,Électronique,1,350000,350000,CUST1936,Dakar
+TXN0224,2023-01-13,Casque Bluetooth,Accessoires,5,25000,125000,CUST9423,Saint-Louis
+TXN0225,2023-05-06,Chaussures de sport,Mode,4,40000,160000,CUST3844,Tambacounda
+TXN0226,2023-03-01,Télévision LED,Électronique,5,450000,2250000,CUST8972,Saint-Louis
+TXN0227,2023-09-10,Montre connectée,Électronique,3,75000,225000,CUST5167,Saint-Louis
+TXN0228,2023-08-13,Livre de développement personnel,Livres,1,10000,10000,CUST1873,Ziguinchor
+TXN0229,2023-12-25,Casque Bluetooth,Accessoires,3,25000,75000,CUST5664,Tambacounda
+TXN0230,2023-02-28,Clavier mécanique,Accessoires,2,50000,100000,CUST1801,Ziguinchor
+TXN0231,2023-07-04,Ordinateur Portable,Électronique,1,350000,350000,CUST4845,Ziguinchor
+TXN0232,2023-09-21,Clavier mécanique,Accessoires,4,50000,200000,CUST1844,Matam
+TXN0233,2023-04-18,Montre connectée,Électronique,5,75000,375000,CUST7846,Ziguinchor
+TXN0234,2023-08-26,Ordinateur Portable,Électronique,3,350000,1050000,CUST2792,Ziguinchor
+TXN0235,2023-07-12,Livre de développement personnel,Livres,2,10000,20000,CUST6655,Tambacounda
+TXN0236,2023-12-02,Montre connectée,Électronique,3,75000,225000,CUST7319,Ziguinchor
+TXN0237,2023-01-13,Clavier mécanique,Accessoires,2,50000,100000,CUST4713,Kolda
+TXN0238,2023-10-05,Chaussures de sport,Mode,1,40000,40000,CUST4754,Saint-Louis
+TXN0239,2023-03-02,Télévision LED,Électronique,1,450000,450000,CUST5616,Saint-Louis
+TXN0240,2023-09-22,Sac à dos,Mode,5,15000,75000,CUST1205,Thiès
+TXN0241,2023-04-16,Casque Bluetooth,Accessoires,5,25000,125000,CUST4180,Thiès
+TXN0242,2023-11-20,Télévision LED,Électronique,4,450000,1800000,CUST5894,Thiès
+TXN0243,2023-07-03,Clavier mécanique,Accessoires,2,50000,100000,CUST5812,Ziguinchor
+TXN0244,2023-11-25,Clavier mécanique,Accessoires,5,50000,250000,CUST4570,Tambacounda
+TXN0245,2023-09-13,Clavier mécanique,Accessoires,4,50000,200000,CUST3708,Kolda
+TXN0246,2023-04-08,Chaussures de sport,Mode,5,40000,200000,CUST4048,Ziguinchor
+TXN0247,2023-03-19,Sac à dos,Mode,5,15000,75000,CUST7497,Matam
+TXN0248,2023-08-28,Clavier mécanique,Accessoires,4,50000,200000,CUST7064,Kolda
+TXN0249,2023-03-07,Montre connectée,Électronique,4,75000,300000,CUST9856,Dakar
+TXN0250,2023-08-28,Montre connectée,Électronique,4,75000,300000,CUST7256,Kaolack
+TXN0251,2023-11-26,Télévision LED,Électronique,2,450000,900000,CUST5884,Saint-Louis
+TXN0252,2023-08-04,Livre de développement personnel,Livres,3,10000,30000,CUST2122,Saint-Louis
+TXN0253,2023-04-01,Sac à dos,Mode,2,15000,30000,CUST7172,Kaolack
+TXN0254,2023-02-03,Livre de développement personnel,Livres,5,10000,50000,CUST5743,Tambacounda
+TXN0255,2023-02-01,Sac à dos,Mode,5,15000,75000,CUST1935,Kolda
+TXN0256,2023-08-09,Téléphone,Électronique,1,200000,200000,CUST3692,Dakar
+TXN0257,2023-01-24,Chaussures de sport,Mode,4,40000,160000,CUST3025,Kolda
+TXN0258,2023-04-11,Clavier mécanique,Accessoires,4,50000,200000,CUST1378,Ziguinchor
+TXN0259,2023-03-12,Sac à dos,Mode,2,15000,30000,CUST9128,Tambacounda
+TXN0260,2023-03-02,Livre de développement personnel,Livres,2,10000,20000,CUST1379,Ziguinchor
+TXN0261,2023-04-25,Casque Bluetooth,Accessoires,4,25000,100000,CUST1293,Kolda
+TXN0262,2023-04-22,Téléphone,Électronique,4,200000,800000,CUST2493,Matam
+TXN0263,2023-05-03,Télévision LED,Électronique,1,450000,450000,CUST8901,Kolda
+TXN0264,2023-09-23,Ordinateur Portable,Électronique,1,350000,350000,CUST6553,Kolda
+TXN0265,2023-07-12,Chaussures de sport,Mode,3,40000,120000,CUST4335,Kaolack
+TXN0266,2023-09-13,Sac à dos,Mode,5,15000,75000,CUST7300,Dakar
+TXN0267,2023-11-19,Chaussures de sport,Mode,1,40000,40000,CUST2524,Tambacounda
+TXN0268,2023-03-17,Télévision LED,Électronique,2,450000,900000,CUST9705,Kolda
+TXN0269,2023-03-19,Ordinateur Portable,Électronique,3,350000,1050000,CUST2554,Tambacounda
+TXN0270,2023-08-12,Montre connectée,Électronique,3,75000,225000,CUST4067,Thiès
+TXN0271,2023-08-15,Télévision LED,Électronique,4,450000,1800000,CUST9510,Kolda
+TXN0272,2023-04-14,Montre connectée,Électronique,2,75000,150000,CUST3879,Matam
+TXN0273,2023-10-29,Sac à dos,Mode,3,15000,45000,CUST3132,Matam
+TXN0274,2023-12-30,Télévision LED,Électronique,5,450000,2250000,CUST5148,Dakar
+TXN0275,2023-11-11,Chaussures de sport,Mode,2,40000,80000,CUST9526,Saint-Louis
+TXN0276,2023-12-07,Télévision LED,Électronique,4,450000,1800000,CUST3144,Tambacounda
+TXN0277,2023-06-17,Clavier mécanique,Accessoires,3,50000,150000,CUST2623,Kaolack
+TXN0278,2023-12-26,Téléphone,Électronique,3,200000,600000,CUST5111,Matam
+TXN0279,2023-10-19,Bureau ergonomique,Mobilier,5,120000,600000,CUST2909,Kaolack
+TXN0280,2023-07-02,Télévision LED,Électronique,5,450000,2250000,CUST7889,Kolda
+TXN0281,2023-07-20,Télévision LED,Électronique,2,450000,900000,CUST3459,Tambacounda
+TXN0282,2023-02-23,Casque Bluetooth,Accessoires,1,25000,25000,CUST5968,Dakar
+TXN0283,2023-11-16,Clavier mécanique,Accessoires,3,50000,150000,CUST4738,Thiès
+TXN0284,2023-07-18,Montre connectée,Électronique,4,75000,300000,CUST6615,Dakar
+TXN0285,2023-09-04,Chaussures de sport,Mode,2,40000,80000,CUST8527,Thiès
+TXN0286,2023-06-18,Bureau ergonomique,Mobilier,4,120000,480000,CUST2892,Ziguinchor
+TXN0287,2023-04-16,Chaussures de sport,Mode,5,40000,200000,CUST9656,Tambacounda
+TXN0288,2023-11-18,Sac à dos,Mode,4,15000,60000,CUST2647,Saint-Louis
+TXN0289,2023-07-27,Télévision LED,Électronique,2,450000,900000,CUST8781,Dakar
+TXN0290,2023-09-28,Bureau ergonomique,Mobilier,3,120000,360000,CUST6247,Dakar
+TXN0291,2023-07-01,Téléphone,Électronique,4,200000,800000,CUST8250,Tambacounda
+TXN0292,2023-11-16,Chaussures de sport,Mode,5,40000,200000,CUST1878,Kaolack
+TXN0293,2023-11-17,Ordinateur Portable,Électronique,5,350000,1750000,CUST2495,Kaolack
+TXN0294,2023-08-29,Sac à dos,Mode,4,15000,60000,CUST2819,Matam
+TXN0295,2023-04-24,Livre de développement personnel,Livres,5,10000,50000,CUST4207,Kolda
+TXN0296,2023-12-16,Chaussures de sport,Mode,4,40000,160000,CUST8321,Matam
+TXN0297,2023-05-29,Ordinateur Portable,Électronique,3,350000,1050000,CUST6631,Ziguinchor
+TXN0298,2023-01-31,Bureau ergonomique,Mobilier,3,120000,360000,CUST6953,Tambacounda
+TXN0299,2023-12-06,Casque Bluetooth,Accessoires,2,25000,50000,CUST1150,Matam
+TXN0300,2023-09-28,Télévision LED,Électronique,1,450000,450000,CUST1857,Thiès
+TXN0301,2023-02-08,Sac à dos,Mode,2,15000,30000,CUST5590,Thiès
+TXN0302,2023-10-28,Télévision LED,Électronique,3,450000,1350000,CUST8537,Ziguinchor
+TXN0303,2023-08-07,Sac à dos,Mode,5,15000,75000,CUST7643,Dakar
+TXN0304,2023-01-15,Chaussures de sport,Mode,3,40000,120000,CUST4990,Kaolack
+TXN0305,2023-10-12,Casque Bluetooth,Accessoires,1,25000,25000,CUST2599,Dakar
+TXN0306,2023-03-05,Sac à dos,Mode,3,15000,45000,CUST5649,Matam
+TXN0307,2023-09-17,Montre connectée,Électronique,3,75000,225000,CUST7262,Ziguinchor
+TXN0308,2023-08-02,Montre connectée,Électronique,3,75000,225000,CUST7220,Matam
+TXN0309,2023-04-22,Bureau ergonomique,Mobilier,3,120000,360000,CUST2549,Thiès
+TXN0310,2023-01-31,Livre de développement personnel,Livres,3,10000,30000,CUST1048,Thiès
+TXN0311,2023-01-18,Bureau ergonomique,Mobilier,2,120000,240000,CUST1577,Tambacounda
+TXN0312,2023-11-11,Téléphone,Électronique,3,200000,600000,CUST7047,Kaolack
+TXN0313,2023-09-15,Ordinateur Portable,Électronique,2,350000,700000,CUST1650,Dakar
+TXN0314,2023-06-19,Clavier mécanique,Accessoires,5,50000,250000,CUST6451,Kaolack
+TXN0315,2023-01-11,Télévision LED,Électronique,3,450000,1350000,CUST5107,Ziguinchor
+TXN0316,2023-10-12,Clavier mécanique,Accessoires,3,50000,150000,CUST3584,Dakar
+TXN0317,2023-03-01,Sac à dos,Mode,3,15000,45000,CUST1185,Ziguinchor
+TXN0318,2023-05-29,Casque Bluetooth,Accessoires,4,25000,100000,CUST6620,Thiès
+TXN0319,2023-06-28,Télévision LED,Électronique,2,450000,900000,CUST7039,Saint-Louis
+TXN0320,2023-06-23,Télévision LED,Électronique,2,450000,900000,CUST2506,Matam
+TXN0321,2023-12-07,Téléphone,Électronique,5,200000,1000000,CUST7672,Saint-Louis
+TXN0322,2023-04-21,Montre connectée,Électronique,1,75000,75000,CUST5329,Dakar
+TXN0323,2023-12-20,Livre de développement personnel,Livres,5,10000,50000,CUST9264,Tambacounda
+TXN0324,2023-11-05,Bureau ergonomique,Mobilier,5,120000,600000,CUST7030,Matam
+TXN0325,2023-12-21,Bureau ergonomique,Mobilier,1,120000,120000,CUST3861,Kolda
+TXN0326,2023-05-20,Montre connectée,Électronique,1,75000,75000,CUST7231,Kolda
+TXN0327,2023-09-15,Livre de développement personnel,Livres,2,10000,20000,CUST6422,Saint-Louis
+TXN0328,2023-03-13,Sac à dos,Mode,4,15000,60000,CUST1759,Thiès
+TXN0329,2023-12-11,Télévision LED,Électronique,4,450000,1800000,CUST8331,Tambacounda
+TXN0330,2023-01-11,Sac à dos,Mode,4,15000,60000,CUST6237,Kolda
+TXN0331,2023-06-14,Montre connectée,Électronique,3,75000,225000,CUST7556,Thiès
+TXN0332,2023-07-09,Livre de développement personnel,Livres,2,10000,20000,CUST1182,Kolda
+TXN0333,2023-07-14,Clavier mécanique,Accessoires,2,50000,100000,CUST4312,Tambacounda
+TXN0334,2023-01-21,Montre connectée,Électronique,3,75000,225000,CUST6449,Thiès
+TXN0335,2023-05-17,Ordinateur Portable,Électronique,4,350000,1400000,CUST9635,Ziguinchor
+TXN0336,2023-01-13,Livre de développement personnel,Livres,4,10000,40000,CUST6153,Saint-Louis
+TXN0337,2023-12-20,Sac à dos,Mode,1,15000,15000,CUST5038,Tambacounda
+TXN0338,2023-05-27,Clavier mécanique,Accessoires,1,50000,50000,CUST6474,Thiès
+TXN0339,2023-04-12,Ordinateur Portable,Électronique,1,350000,350000,CUST1727,Tambacounda
+TXN0340,2023-02-08,Clavier mécanique,Accessoires,4,50000,200000,CUST5697,Matam
+TXN0341,2023-05-13,Clavier mécanique,Accessoires,2,50000,100000,CUST5458,Saint-Louis
+TXN0342,2023-06-07,Bureau ergonomique,Mobilier,3,120000,360000,CUST2900,Matam
+TXN0343,2023-10-20,Télévision LED,Électronique,5,450000,2250000,CUST2434,Tambacounda
+TXN0344,2023-01-17,Clavier mécanique,Accessoires,2,50000,100000,CUST2095,Matam
+TXN0345,2023-07-14,Livre de développement personnel,Livres,4,10000,40000,CUST9768,Matam
+TXN0346,2023-11-17,Clavier mécanique,Accessoires,1,50000,50000,CUST5889,Dakar
+TXN0347,2023-01-07,Télévision LED,Électronique,2,450000,900000,CUST4089,Matam
+TXN0348,2023-06-01,Clavier mécanique,Accessoires,1,50000,50000,CUST9425,Ziguinchor
+TXN0349,2023-06-06,Bureau ergonomique,Mobilier,4,120000,480000,CUST6175,Ziguinchor
+TXN0350,2023-11-17,Télévision LED,Électronique,5,450000,2250000,CUST6621,Matam
+TXN0351,2023-09-23,Bureau ergonomique,Mobilier,5,120000,600000,CUST2156,Ziguinchor
+TXN0352,2023-01-22,Casque Bluetooth,Accessoires,3,25000,75000,CUST4386,Kaolack
+TXN0353,2023-08-07,Téléphone,Électronique,3,200000,600000,CUST4175,Ziguinchor
+TXN0354,2023-02-07,Casque Bluetooth,Accessoires,2,25000,50000,CUST1045,Thiès
+TXN0355,2023-03-23,Télévision LED,Électronique,2,450000,900000,CUST2231,Kaolack
+TXN0356,2023-08-13,Montre connectée,Électronique,4,75000,300000,CUST3510,Thiès
+TXN0357,2023-02-08,Chaussures de sport,Mode,1,40000,40000,CUST3457,Kolda
+TXN0358,2023-11-11,Bureau ergonomique,Mobilier,1,120000,120000,CUST4326,Tambacounda
+TXN0359,2023-07-15,Bureau ergonomique,Mobilier,5,120000,600000,CUST9296,Tambacounda
+TXN0360,2023-01-28,Télévision LED,Électronique,2,450000,900000,CUST6877,Saint-Louis
+TXN0361,2023-09-09,Livre de développement personnel,Livres,1,10000,10000,CUST1617,Dakar
+TXN0362,2023-01-26,Télévision LED,Électronique,3,450000,1350000,CUST9238,Thiès
+TXN0363,2023-09-16,Sac à dos,Mode,4,15000,60000,CUST5982,Kolda
+TXN0364,2023-10-29,Casque Bluetooth,Accessoires,2,25000,50000,CUST6055,Kaolack
+TXN0365,2023-05-04,Clavier mécanique,Accessoires,3,50000,150000,CUST3132,Ziguinchor
+TXN0366,2023-12-24,Clavier mécanique,Accessoires,5,50000,250000,CUST8307,Dakar
+TXN0367,2023-10-13,Téléphone,Électronique,5,200000,1000000,CUST5608,Kolda
+TXN0368,2023-03-19,Télévision LED,Électronique,3,450000,1350000,CUST1190,Thiès
+TXN0369,2023-07-19,Téléphone,Électronique,4,200000,800000,CUST2092,Kaolack
+TXN0370,2023-06-01,Ordinateur Portable,Électronique,5,350000,1750000,CUST9897,Dakar
+TXN0371,2023-08-21,Clavier mécanique,Accessoires,4,50000,200000,CUST7989,Saint-Louis
+TXN0372,2023-05-21,Livre de développement personnel,Livres,4,10000,40000,CUST4814,Kolda
+TXN0373,2023-12-12,Ordinateur Portable,Électronique,1,350000,350000,CUST4607,Kolda
+TXN0374,2023-05-24,Montre connectée,Électronique,5,75000,375000,CUST6321,Thiès
+TXN0375,2023-12-30,Livre de développement personnel,Livres,2,10000,20000,CUST2394,Kaolack
+TXN0376,2023-12-11,Chaussures de sport,Mode,5,40000,200000,CUST3878,Tambacounda
+TXN0377,2023-03-10,Sac à dos,Mode,4,15000,60000,CUST1711,Matam
+TXN0378,2023-05-18,Casque Bluetooth,Accessoires,4,25000,100000,CUST9915,Matam
+TXN0379,2023-08-27,Ordinateur Portable,Électronique,1,350000,350000,CUST8192,Dakar
+TXN0380,2023-06-17,Télévision LED,Électronique,5,450000,2250000,CUST7604,Saint-Louis
+TXN0381,2023-07-11,Montre connectée,Électronique,4,75000,300000,CUST8087,Matam
+TXN0382,2023-10-04,Montre connectée,Électronique,4,75000,300000,CUST9244,Kolda
+TXN0383,2023-02-21,Bureau ergonomique,Mobilier,3,120000,360000,CUST4725,Kolda
+TXN0384,2023-02-19,Bureau ergonomique,Mobilier,4,120000,480000,CUST5415,Matam
+TXN0385,2023-11-21,Clavier mécanique,Accessoires,3,50000,150000,CUST1427,Kaolack
+TXN0386,2023-01-01,Téléphone,Électronique,1,200000,200000,CUST4745,Thiès
+TXN0387,2023-11-08,Montre connectée,Électronique,4,75000,300000,CUST9774,Matam
+TXN0388,2023-07-30,Ordinateur Portable,Électronique,5,350000,1750000,CUST5588,Kaolack
+TXN0389,2023-07-04,Chaussures de sport,Mode,5,40000,200000,CUST3661,Dakar
+TXN0390,2023-07-20,Clavier mécanique,Accessoires,2,50000,100000,CUST5350,Thiès
+TXN0391,2023-09-07,Téléphone,Électronique,4,200000,800000,CUST6578,Kolda
+TXN0392,2023-11-07,Sac à dos,Mode,3,15000,45000,CUST1111,Kaolack
+TXN0393,2023-08-30,Bureau ergonomique,Mobilier,2,120000,240000,CUST7214,Kaolack
+TXN0394,2023-04-29,Sac à dos,Mode,3,15000,45000,CUST4209,Kolda
+TXN0395,2023-03-17,Bureau ergonomique,Mobilier,4,120000,480000,CUST1088,Saint-Louis
+TXN0396,2023-11-02,Sac à dos,Mode,3,15000,45000,CUST2445,Thiès
+TXN0397,2023-10-17,Ordinateur Portable,Électronique,1,350000,350000,CUST2162,Dakar
+TXN0398,2023-01-16,Livre de développement personnel,Livres,1,10000,10000,CUST9742,Ziguinchor
+TXN0399,2023-08-18,Téléphone,Électronique,3,200000,600000,CUST4667,Dakar
+TXN0400,2023-12-08,Casque Bluetooth,Accessoires,5,25000,125000,CUST1715,Matam
+TXN0401,2023-05-28,Livre de développement personnel,Livres,4,10000,40000,CUST9891,Saint-Louis
+TXN0402,2023-02-11,Téléphone,Électronique,4,200000,800000,CUST6505,Dakar
+TXN0403,2023-01-30,Ordinateur Portable,Électronique,1,350000,350000,CUST3789,Kaolack
+TXN0404,2023-06-22,Clavier mécanique,Accessoires,2,50000,100000,CUST2168,Tambacounda
+TXN0405,2023-06-28,Téléphone,Électronique,5,200000,1000000,CUST6576,Dakar
+TXN0406,2023-02-10,Télévision LED,Électronique,2,450000,900000,CUST3035,Tambacounda
+TXN0407,2023-09-05,Téléphone,Électronique,3,200000,600000,CUST3086,Kolda
+TXN0408,2023-11-18,Bureau ergonomique,Mobilier,5,120000,600000,CUST1880,Matam
+TXN0409,2023-10-09,Montre connectée,Électronique,1,75000,75000,CUST3891,Kolda
+TXN0410,2023-06-22,Montre connectée,Électronique,2,75000,150000,CUST5692,Ziguinchor
+TXN0411,2023-09-08,Sac à dos,Mode,2,15000,30000,CUST8769,Kaolack
+TXN0412,2023-04-05,Téléphone,Électronique,2,200000,400000,CUST4090,Thiès
+TXN0413,2023-04-12,Téléphone,Électronique,1,200000,200000,CUST6514,Saint-Louis
+TXN0414,2023-11-07,Sac à dos,Mode,3,15000,45000,CUST5929,Thiès
+TXN0415,2023-10-04,Téléphone,Électronique,3,200000,600000,CUST2705,Ziguinchor
+TXN0416,2023-09-08,Montre connectée,Électronique,5,75000,375000,CUST3747,Kaolack
+TXN0417,2023-01-14,Télévision LED,Électronique,2,450000,900000,CUST4322,Kaolack
+TXN0418,2023-08-13,Clavier mécanique,Accessoires,3,50000,150000,CUST8683,Tambacounda
+TXN0419,2023-08-06,Bureau ergonomique,Mobilier,5,120000,600000,CUST3128,Kolda
+TXN0420,2023-11-08,Chaussures de sport,Mode,3,40000,120000,CUST5767,Thiès
+TXN0421,2023-02-28,Sac à dos,Mode,2,15000,30000,CUST9143,Thiès
+TXN0422,2023-08-21,Livre de développement personnel,Livres,1,10000,10000,CUST2488,Ziguinchor
+TXN0423,2023-03-05,Chaussures de sport,Mode,1,40000,40000,CUST2100,Kaolack
+TXN0424,2023-01-27,Montre connectée,Électronique,4,75000,300000,CUST1673,Kolda
+TXN0425,2023-02-11,Ordinateur Portable,Électronique,2,350000,700000,CUST3324,Kolda
+TXN0426,2023-01-21,Montre connectée,Électronique,3,75000,225000,CUST8120,Matam
+TXN0427,2023-11-23,Sac à dos,Mode,1,15000,15000,CUST5654,Kolda
+TXN0428,2023-02-07,Montre connectée,Électronique,4,75000,300000,CUST5062,Kaolack
+TXN0429,2023-10-29,Télévision LED,Électronique,3,450000,1350000,CUST6973,Ziguinchor
+TXN0430,2023-11-12,Chaussures de sport,Mode,5,40000,200000,CUST8359,Dakar
+TXN0431,2023-09-19,Montre connectée,Électronique,5,75000,375000,CUST1676,Tambacounda
+TXN0432,2023-05-27,Clavier mécanique,Accessoires,3,50000,150000,CUST9673,Kaolack
+TXN0433,2023-08-15,Casque Bluetooth,Accessoires,4,25000,100000,CUST2619,Thiès
+TXN0434,2023-01-30,Téléphone,Électronique,2,200000,400000,CUST6722,Kaolack
+TXN0435,2023-09-18,Ordinateur Portable,Électronique,1,350000,350000,CUST4225,Tambacounda
+TXN0436,2023-06-16,Clavier mécanique,Accessoires,5,50000,250000,CUST8370,Matam
+TXN0437,2023-08-19,Téléphone,Électronique,2,200000,400000,CUST8588,Tambacounda
+TXN0438,2023-04-19,Sac à dos,Mode,2,15000,30000,CUST8554,Matam
+TXN0439,2023-02-28,Casque Bluetooth,Accessoires,2,25000,50000,CUST3995,Thiès
+TXN0440,2023-01-24,Sac à dos,Mode,1,15000,15000,CUST5693,Matam
+TXN0441,2023-10-24,Casque Bluetooth,Accessoires,2,25000,50000,CUST6285,Thiès
+TXN0442,2023-08-18,Sac à dos,Mode,2,15000,30000,CUST5586,Dakar
+TXN0443,2023-10-14,Sac à dos,Mode,2,15000,30000,CUST2283,Tambacounda
+TXN0444,2023-06-23,Sac à dos,Mode,5,15000,75000,CUST7789,Kolda
+TXN0445,2023-07-14,Télévision LED,Électronique,4,450000,1800000,CUST9545,Kolda
+TXN0446,2023-02-16,Télévision LED,Électronique,3,450000,1350000,CUST5460,Saint-Louis
+TXN0447,2023-03-23,Sac à dos,Mode,5,15000,75000,CUST6305,Ziguinchor
+TXN0448,2023-11-17,Télévision LED,Électronique,3,450000,1350000,CUST4477,Dakar
+TXN0449,2023-10-16,Chaussures de sport,Mode,1,40000,40000,CUST1228,Kaolack
+TXN0450,2023-12-08,Télévision LED,Électronique,3,450000,1350000,CUST2233,Thiès
+TXN0451,2023-02-10,Ordinateur Portable,Électronique,5,350000,1750000,CUST4524,Kaolack
+TXN0452,2023-12-27,Sac à dos,Mode,4,15000,60000,CUST5686,Thiès
+TXN0453,2023-11-29,Ordinateur Portable,Électronique,2,350000,700000,CUST9510,Saint-Louis
+TXN0454,2023-07-20,Sac à dos,Mode,5,15000,75000,CUST7842,Dakar
+TXN0455,2023-05-25,Clavier mécanique,Accessoires,2,50000,100000,CUST4102,Saint-Louis
+TXN0456,2023-08-25,Sac à dos,Mode,3,15000,45000,CUST6765,Matam
+TXN0457,2023-12-05,Ordinateur Portable,Électronique,2,350000,700000,CUST5295,Kolda
+TXN0458,2023-01-17,Sac à dos,Mode,1,15000,15000,CUST8324,Tambacounda
+TXN0459,2023-04-26,Ordinateur Portable,Électronique,5,350000,1750000,CUST3302,Kaolack
+TXN0460,2023-05-17,Livre de développement personnel,Livres,5,10000,50000,CUST4272,Tambacounda
+TXN0461,2023-11-13,Téléphone,Électronique,5,200000,1000000,CUST3738,Saint-Louis
+TXN0462,2023-08-19,Télévision LED,Électronique,3,450000,1350000,CUST3490,Kaolack
+TXN0463,2023-10-08,Ordinateur Portable,Électronique,1,350000,350000,CUST4485,Saint-Louis
+TXN0464,2023-01-22,Clavier mécanique,Accessoires,4,50000,200000,CUST3136,Kaolack
+TXN0465,2023-07-09,Clavier mécanique,Accessoires,3,50000,150000,CUST7078,Thiès
+TXN0466,2023-04-22,Sac à dos,Mode,4,15000,60000,CUST5296,Saint-Louis
+TXN0467,2023-12-06,Clavier mécanique,Accessoires,1,50000,50000,CUST4695,Tambacounda
+TXN0468,2023-11-24,Téléphone,Électronique,5,200000,1000000,CUST9075,Matam
+TXN0469,2023-01-29,Montre connectée,Électronique,5,75000,375000,CUST3670,Dakar
+TXN0470,2023-12-18,Sac à dos,Mode,3,15000,45000,CUST3800,Dakar
+TXN0471,2023-12-24,Montre connectée,Électronique,3,75000,225000,CUST5013,Kaolack
+TXN0472,2023-09-03,Bureau ergonomique,Mobilier,1,120000,120000,CUST9385,Kolda
+TXN0473,2023-02-04,Livre de développement personnel,Livres,2,10000,20000,CUST4108,Matam
+TXN0474,2023-01-29,Casque Bluetooth,Accessoires,2,25000,50000,CUST6153,Matam
+TXN0475,2023-09-15,Clavier mécanique,Accessoires,1,50000,50000,CUST9176,Matam
+TXN0476,2023-08-12,Clavier mécanique,Accessoires,2,50000,100000,CUST5817,Saint-Louis
+TXN0477,2023-09-11,Chaussures de sport,Mode,5,40000,200000,CUST3941,Ziguinchor
+TXN0478,2023-06-28,Chaussures de sport,Mode,4,40000,160000,CUST8663,Thiès
+TXN0479,2023-11-07,Bureau ergonomique,Mobilier,1,120000,120000,CUST4614,Dakar
+TXN0480,2023-12-12,Bureau ergonomique,Mobilier,2,120000,240000,CUST7910,Dakar
+TXN0481,2023-09-24,Téléphone,Électronique,2,200000,400000,CUST2519,Ziguinchor
+TXN0482,2023-10-03,Télévision LED,Électronique,2,450000,900000,CUST2333,Dakar
+TXN0483,2023-01-19,Bureau ergonomique,Mobilier,2,120000,240000,CUST2676,Kolda
+TXN0484,2023-12-14,Casque Bluetooth,Accessoires,2,25000,50000,CUST4079,Saint-Louis
+TXN0485,2023-02-22,Montre connectée,Électronique,4,75000,300000,CUST6617,Matam
+TXN0486,2023-06-29,Clavier mécanique,Accessoires,1,50000,50000,CUST9784,Tambacounda
+TXN0487,2023-07-28,Bureau ergonomique,Mobilier,2,120000,240000,CUST9357,Ziguinchor
+TXN0488,2023-10-27,Téléphone,Électronique,4,200000,800000,CUST7528,Dakar
+TXN0489,2023-02-16,Livre de développement personnel,Livres,1,10000,10000,CUST8874,Matam
+TXN0490,2023-04-13,Ordinateur Portable,Électronique,2,350000,700000,CUST3344,Tambacounda
+TXN0491,2023-03-11,Bureau ergonomique,Mobilier,5,120000,600000,CUST9402,Kolda
+TXN0492,2023-09-16,Bureau ergonomique,Mobilier,3,120000,360000,CUST1407,Tambacounda
+TXN0493,2023-03-14,Livre de développement personnel,Livres,2,10000,20000,CUST2165,Kolda
+TXN0494,2023-01-15,Sac à dos,Mode,3,15000,45000,CUST7890,Kolda
+TXN0495,2023-12-08,Chaussures de sport,Mode,4,40000,160000,CUST6475,Matam
+TXN0496,2023-09-14,Montre connectée,Électronique,1,75000,75000,CUST4761,Ziguinchor
+TXN0497,2023-07-01,Casque Bluetooth,Accessoires,3,25000,75000,CUST2124,Dakar
+TXN0498,2023-08-22,Clavier mécanique,Accessoires,1,50000,50000,CUST9028,Dakar
+TXN0499,2023-05-24,Télévision LED,Électronique,1,450000,450000,CUST5758,Kolda
+TXN0500,2023-03-29,Casque Bluetooth,Accessoires,1,25000,25000,CUST8801,Saint-Louis
+TXN0501,2023-10-26,Téléphone,Électronique,2,200000,400000,CUST2181,Dakar
+TXN0502,2023-01-20,Télévision LED,Électronique,1,450000,450000,CUST6814,Matam
+TXN0503,2023-12-21,Bureau ergonomique,Mobilier,1,120000,120000,CUST8229,Tambacounda
+TXN0504,2023-11-30,Chaussures de sport,Mode,1,40000,40000,CUST1428,Tambacounda
+TXN0505,2023-07-01,Télévision LED,Électronique,1,450000,450000,CUST7261,Ziguinchor
+TXN0506,2023-12-26,Sac à dos,Mode,3,15000,45000,CUST6085,Ziguinchor
+TXN0507,2023-02-15,Télévision LED,Électronique,3,450000,1350000,CUST2262,Matam
+TXN0508,2023-04-10,Bureau ergonomique,Mobilier,4,120000,480000,CUST5645,Kaolack
+TXN0509,2023-10-16,Chaussures de sport,Mode,4,40000,160000,CUST9263,Dakar
+TXN0510,2023-01-10,Ordinateur Portable,Électronique,4,350000,1400000,CUST4681,Dakar
+TXN0511,2023-05-15,Clavier mécanique,Accessoires,5,50000,250000,CUST1191,Kolda
+TXN0512,2023-09-14,Télévision LED,Électronique,5,450000,2250000,CUST1978,Kolda
+TXN0513,2023-05-10,Livre de développement personnel,Livres,2,10000,20000,CUST9657,Kaolack
+TXN0514,2023-02-10,Livre de développement personnel,Livres,2,10000,20000,CUST3056,Kaolack
+TXN0515,2023-10-15,Clavier mécanique,Accessoires,4,50000,200000,CUST9085,Kolda
+TXN0516,2023-04-20,Montre connectée,Électronique,5,75000,375000,CUST4565,Saint-Louis
+TXN0517,2023-01-04,Livre de développement personnel,Livres,5,10000,50000,CUST9535,Saint-Louis
+TXN0518,2023-02-13,Bureau ergonomique,Mobilier,4,120000,480000,CUST7476,Dakar
+TXN0519,2023-01-20,Livre de développement personnel,Livres,1,10000,10000,CUST9689,Kolda
+TXN0520,2023-04-25,Télévision LED,Électronique,1,450000,450000,CUST1077,Tambacounda
+TXN0521,2023-08-11,Bureau ergonomique,Mobilier,1,120000,120000,CUST3453,Kolda
+TXN0522,2023-10-28,Montre connectée,Électronique,4,75000,300000,CUST2044,Saint-Louis
+TXN0523,2023-05-14,Casque Bluetooth,Accessoires,3,25000,75000,CUST9175,Saint-Louis
+TXN0524,2023-11-08,Clavier mécanique,Accessoires,1,50000,50000,CUST2337,Ziguinchor
+TXN0525,2023-03-02,Ordinateur Portable,Électronique,3,350000,1050000,CUST9122,Tambacounda
+TXN0526,2023-12-17,Montre connectée,Électronique,4,75000,300000,CUST6944,Kolda
+TXN0527,2023-09-03,Ordinateur Portable,Électronique,3,350000,1050000,CUST2242,Thiès
+TXN0528,2023-06-09,Montre connectée,Électronique,4,75000,300000,CUST5753,Matam
+TXN0529,2023-09-02,Bureau ergonomique,Mobilier,2,120000,240000,CUST9216,Thiès
+TXN0530,2023-09-03,Ordinateur Portable,Électronique,2,350000,700000,CUST3103,Ziguinchor
+TXN0531,2023-10-25,Montre connectée,Électronique,1,75000,75000,CUST4766,Kolda
+TXN0532,2023-08-06,Sac à dos,Mode,1,15000,15000,CUST7765,Dakar
+TXN0533,2023-07-12,Bureau ergonomique,Mobilier,3,120000,360000,CUST3327,Saint-Louis
+TXN0534,2023-10-09,Chaussures de sport,Mode,2,40000,80000,CUST4804,Thiès
+TXN0535,2023-09-26,Clavier mécanique,Accessoires,3,50000,150000,CUST2074,Saint-Louis
+TXN0536,2023-11-21,Télévision LED,Électronique,3,450000,1350000,CUST9308,Ziguinchor
+TXN0537,2023-09-07,Bureau ergonomique,Mobilier,4,120000,480000,CUST6199,Saint-Louis
+TXN0538,2023-11-26,Ordinateur Portable,Électronique,3,350000,1050000,CUST4680,Ziguinchor
+TXN0539,2023-09-13,Livre de développement personnel,Livres,5,10000,50000,CUST4519,Kaolack
+TXN0540,2023-12-11,Bureau ergonomique,Mobilier,1,120000,120000,CUST5926,Ziguinchor
+TXN0541,2023-09-27,Chaussures de sport,Mode,4,40000,160000,CUST6029,Dakar
+TXN0542,2023-04-26,Bureau ergonomique,Mobilier,4,120000,480000,CUST1828,Matam
+TXN0543,2023-08-16,Télévision LED,Électronique,4,450000,1800000,CUST4390,Matam
+TXN0544,2023-05-27,Livre de développement personnel,Livres,4,10000,40000,CUST5638,Saint-Louis
+TXN0545,2023-12-27,Montre connectée,Électronique,4,75000,300000,CUST2398,Kaolack
+TXN0546,2023-12-28,Télévision LED,Électronique,3,450000,1350000,CUST9250,Tambacounda
+TXN0547,2023-11-05,Chaussures de sport,Mode,3,40000,120000,CUST8833,Matam
+TXN0548,2023-05-16,Casque Bluetooth,Accessoires,3,25000,75000,CUST1116,Ziguinchor
+TXN0549,2023-11-26,Clavier mécanique,Accessoires,3,50000,150000,CUST5464,Dakar
+TXN0550,2023-03-03,Casque Bluetooth,Accessoires,5,25000,125000,CUST6000,Dakar
+TXN0551,2023-03-19,Clavier mécanique,Accessoires,5,50000,250000,CUST1524,Kaolack
+TXN0552,2023-05-24,Clavier mécanique,Accessoires,1,50000,50000,CUST7455,Ziguinchor
+TXN0553,2023-01-20,Sac à dos,Mode,3,15000,45000,CUST8137,Thiès
+TXN0554,2023-06-14,Casque Bluetooth,Accessoires,3,25000,75000,CUST1401,Thiès
+TXN0555,2023-06-20,Sac à dos,Mode,2,15000,30000,CUST4301,Ziguinchor
+TXN0556,2023-07-23,Livre de développement personnel,Livres,1,10000,10000,CUST4821,Tambacounda
+TXN0557,2023-05-18,Télévision LED,Électronique,4,450000,1800000,CUST6120,Tambacounda
+TXN0558,2023-05-07,Montre connectée,Électronique,3,75000,225000,CUST7787,Matam
+TXN0559,2023-04-13,Livre de développement personnel,Livres,3,10000,30000,CUST2514,Tambacounda
+TXN0560,2023-07-22,Montre connectée,Électronique,4,75000,300000,CUST7664,Kaolack
+TXN0561,2023-11-20,Télévision LED,Électronique,1,450000,450000,CUST9456,Kolda
+TXN0562,2023-11-19,Clavier mécanique,Accessoires,1,50000,50000,CUST6706,Saint-Louis
+TXN0563,2023-02-16,Ordinateur Portable,Électronique,2,350000,700000,CUST1712,Matam
+TXN0564,2023-05-04,Chaussures de sport,Mode,2,40000,80000,CUST9727,Dakar
+TXN0565,2023-03-23,Sac à dos,Mode,1,15000,15000,CUST7548,Kaolack
+TXN0566,2023-11-29,Bureau ergonomique,Mobilier,3,120000,360000,CUST2394,Saint-Louis
+TXN0567,2023-03-24,Télévision LED,Électronique,3,450000,1350000,CUST3042,Saint-Louis
+TXN0568,2023-02-14,Téléphone,Électronique,2,200000,400000,CUST5123,Tambacounda
+TXN0569,2023-11-18,Clavier mécanique,Accessoires,1,50000,50000,CUST5629,Dakar
+TXN0570,2023-02-02,Téléphone,Électronique,5,200000,1000000,CUST4472,Saint-Louis
+TXN0571,2023-01-30,Montre connectée,Électronique,1,75000,75000,CUST7000,Kolda
+TXN0572,2023-06-26,Télévision LED,Électronique,5,450000,2250000,CUST4062,Saint-Louis
+TXN0573,2023-10-25,Casque Bluetooth,Accessoires,3,25000,75000,CUST2700,Thiès
+TXN0574,2023-06-22,Ordinateur Portable,Électronique,4,350000,1400000,CUST2836,Tambacounda
+TXN0575,2023-08-07,Sac à dos,Mode,5,15000,75000,CUST8260,Ziguinchor
+TXN0576,2023-11-17,Télévision LED,Électronique,2,450000,900000,CUST7818,Kaolack
+TXN0577,2023-05-06,Bureau ergonomique,Mobilier,4,120000,480000,CUST7620,Ziguinchor
+TXN0578,2023-05-21,Ordinateur Portable,Électronique,1,350000,350000,CUST7362,Dakar
+TXN0579,2023-08-03,Chaussures de sport,Mode,1,40000,40000,CUST5812,Kaolack
+TXN0580,2023-05-20,Bureau ergonomique,Mobilier,4,120000,480000,CUST8470,Ziguinchor
+TXN0581,2023-06-08,Ordinateur Portable,Électronique,5,350000,1750000,CUST8455,Tambacounda
+TXN0582,2023-12-08,Ordinateur Portable,Électronique,5,350000,1750000,CUST8274,Saint-Louis
+TXN0583,2023-03-15,Casque Bluetooth,Accessoires,2,25000,50000,CUST7910,Kaolack
+TXN0584,2023-02-12,Télévision LED,Électronique,1,450000,450000,CUST3333,Thiès
+TXN0585,2023-12-21,Sac à dos,Mode,4,15000,60000,CUST4313,Kolda
+TXN0586,2023-02-14,Casque Bluetooth,Accessoires,3,25000,75000,CUST8152,Tambacounda
+TXN0587,2023-11-01,Casque Bluetooth,Accessoires,4,25000,100000,CUST9857,Dakar
+TXN0588,2023-10-07,Casque Bluetooth,Accessoires,5,25000,125000,CUST2638,Kolda
+TXN0589,2023-04-10,Téléphone,Électronique,3,200000,600000,CUST5220,Saint-Louis
+TXN0590,2023-02-13,Livre de développement personnel,Livres,4,10000,40000,CUST7135,Tambacounda
+TXN0591,2023-12-02,Sac à dos,Mode,3,15000,45000,CUST8940,Kaolack
+TXN0592,2023-07-03,Téléphone,Électronique,1,200000,200000,CUST3113,Saint-Louis
+TXN0593,2023-03-10,Ordinateur Portable,Électronique,1,350000,350000,CUST4519,Thiès
+TXN0594,2023-05-16,Livre de développement personnel,Livres,3,10000,30000,CUST2105,Tambacounda
+TXN0595,2023-02-25,Ordinateur Portable,Électronique,3,350000,1050000,CUST8189,Matam
+TXN0596,2023-06-20,Téléphone,Électronique,5,200000,1000000,CUST5053,Tambacounda
+TXN0597,2023-01-05,Bureau ergonomique,Mobilier,2,120000,240000,CUST7276,Kaolack
+TXN0598,2023-05-06,Livre de développement personnel,Livres,2,10000,20000,CUST1887,Matam
+TXN0599,2023-11-26,Montre connectée,Électronique,5,75000,375000,CUST2955,Tambacounda
+TXN0600,2023-07-10,Montre connectée,Électronique,1,75000,75000,CUST9735,Thiès
+TXN0601,2023-06-10,Casque Bluetooth,Accessoires,2,25000,50000,CUST7648,Ziguinchor
+TXN0602,2023-07-20,Casque Bluetooth,Accessoires,2,25000,50000,CUST9565,Saint-Louis
+TXN0603,2023-11-30,Ordinateur Portable,Électronique,3,350000,1050000,CUST2043,Thiès
+TXN0604,2023-06-04,Clavier mécanique,Accessoires,2,50000,100000,CUST9432,Matam
+TXN0605,2023-07-09,Clavier mécanique,Accessoires,4,50000,200000,CUST8459,Tambacounda
+TXN0606,2023-06-09,Sac à dos,Mode,5,15000,75000,CUST8573,Thiès
+TXN0607,2023-07-19,Livre de développement personnel,Livres,5,10000,50000,CUST9836,Tambacounda
+TXN0608,2023-06-17,Sac à dos,Mode,5,15000,75000,CUST9421,Ziguinchor
+TXN0609,2023-11-15,Téléphone,Électronique,1,200000,200000,CUST6978,Thiès
+TXN0610,2023-07-18,Montre connectée,Électronique,2,75000,150000,CUST8422,Thiès
+TXN0611,2023-06-07,Livre de développement personnel,Livres,1,10000,10000,CUST3468,Saint-Louis
+TXN0612,2023-10-05,Téléphone,Électronique,3,200000,600000,CUST1458,Ziguinchor
+TXN0613,2023-06-30,Chaussures de sport,Mode,3,40000,120000,CUST7721,Dakar
+TXN0614,2023-05-04,Téléphone,Électronique,1,200000,200000,CUST8099,Thiès
+TXN0615,2023-11-25,Téléphone,Électronique,1,200000,200000,CUST8514,Matam
+TXN0616,2023-02-07,Casque Bluetooth,Accessoires,4,25000,100000,CUST8127,Saint-Louis
+TXN0617,2023-06-08,Télévision LED,Électronique,3,450000,1350000,CUST6074,Kaolack
+TXN0618,2023-10-16,Clavier mécanique,Accessoires,2,50000,100000,CUST5874,Ziguinchor
+TXN0619,2023-02-04,Ordinateur Portable,Électronique,2,350000,700000,CUST6857,Kaolack
+TXN0620,2023-05-13,Téléphone,Électronique,3,200000,600000,CUST4152,Kolda
+TXN0621,2023-08-25,Montre connectée,Électronique,4,75000,300000,CUST8547,Kolda
+TXN0622,2023-11-07,Livre de développement personnel,Livres,4,10000,40000,CUST1586,Matam
+TXN0623,2023-09-16,Ordinateur Portable,Électronique,3,350000,1050000,CUST5196,Matam
+TXN0624,2023-03-02,Casque Bluetooth,Accessoires,2,25000,50000,CUST7162,Thiès
+TXN0625,2023-05-03,Chaussures de sport,Mode,1,40000,40000,CUST5726,Matam
+TXN0626,2023-07-08,Sac à dos,Mode,2,15000,30000,CUST7063,Tambacounda
+TXN0627,2023-06-21,Téléphone,Électronique,3,200000,600000,CUST6884,Thiès
+TXN0628,2023-05-25,Télévision LED,Électronique,1,450000,450000,CUST5006,Saint-Louis
+TXN0629,2023-01-03,Clavier mécanique,Accessoires,1,50000,50000,CUST5644,Thiès
+TXN0630,2023-03-29,Livre de développement personnel,Livres,5,10000,50000,CUST4122,Kaolack
+TXN0631,2023-03-26,Bureau ergonomique,Mobilier,2,120000,240000,CUST3681,Matam
+TXN0632,2023-03-23,Ordinateur Portable,Électronique,2,350000,700000,CUST6585,Dakar
+TXN0633,2023-03-31,Livre de développement personnel,Livres,2,10000,20000,CUST8069,Kaolack
+TXN0634,2023-11-07,Téléphone,Électronique,5,200000,1000000,CUST1942,Matam
+TXN0635,2023-12-11,Téléphone,Électronique,2,200000,400000,CUST2206,Kaolack
+TXN0636,2023-05-12,Clavier mécanique,Accessoires,3,50000,150000,CUST9548,Kaolack
+TXN0637,2023-12-15,Chaussures de sport,Mode,2,40000,80000,CUST7047,Ziguinchor
+TXN0638,2023-11-10,Montre connectée,Électronique,3,75000,225000,CUST6914,Ziguinchor
+TXN0639,2023-04-29,Casque Bluetooth,Accessoires,3,25000,75000,CUST9455,Kaolack
+TXN0640,2023-07-02,Livre de développement personnel,Livres,4,10000,40000,CUST9331,Matam
+TXN0641,2023-12-09,Montre connectée,Électronique,1,75000,75000,CUST4748,Tambacounda
+TXN0642,2023-08-16,Bureau ergonomique,Mobilier,3,120000,360000,CUST7025,Kolda
+TXN0643,2023-02-10,Casque Bluetooth,Accessoires,4,25000,100000,CUST2476,Ziguinchor
+TXN0644,2023-08-08,Sac à dos,Mode,4,15000,60000,CUST9230,Kolda
+TXN0645,2023-06-09,Livre de développement personnel,Livres,1,10000,10000,CUST2581,Thiès
+TXN0646,2023-07-23,Chaussures de sport,Mode,4,40000,160000,CUST3232,Thiès
+TXN0647,2023-08-20,Bureau ergonomique,Mobilier,1,120000,120000,CUST9220,Ziguinchor
+TXN0648,2023-01-24,Casque Bluetooth,Accessoires,4,25000,100000,CUST1108,Tambacounda
+TXN0649,2023-04-16,Sac à dos,Mode,2,15000,30000,CUST2001,Ziguinchor
+TXN0650,2023-07-26,Livre de développement personnel,Livres,1,10000,10000,CUST9350,Tambacounda
+TXN0651,2023-03-15,Livre de développement personnel,Livres,1,10000,10000,CUST4005,Matam
+TXN0652,2023-06-17,Sac à dos,Mode,5,15000,75000,CUST2509,Tambacounda
+TXN0653,2023-08-12,Ordinateur Portable,Électronique,4,350000,1400000,CUST1938,Dakar
+TXN0654,2023-08-16,Casque Bluetooth,Accessoires,3,25000,75000,CUST2191,Saint-Louis
+TXN0655,2023-05-06,Téléphone,Électronique,1,200000,200000,CUST2882,Thiès
+TXN0656,2023-06-17,Bureau ergonomique,Mobilier,5,120000,600000,CUST6704,Saint-Louis
+TXN0657,2023-08-14,Sac à dos,Mode,2,15000,30000,CUST1755,Dakar
+TXN0658,2023-05-01,Casque Bluetooth,Accessoires,5,25000,125000,CUST9419,Dakar
+TXN0659,2023-01-19,Ordinateur Portable,Électronique,4,350000,1400000,CUST2006,Ziguinchor
+TXN0660,2023-11-18,Bureau ergonomique,Mobilier,4,120000,480000,CUST3726,Dakar
+TXN0661,2023-09-19,Livre de développement personnel,Livres,5,10000,50000,CUST9487,Kolda
+TXN0662,2023-01-26,Chaussures de sport,Mode,5,40000,200000,CUST7281,Saint-Louis
+TXN0663,2023-06-13,Sac à dos,Mode,1,15000,15000,CUST9970,Matam
+TXN0664,2023-06-16,Montre connectée,Électronique,3,75000,225000,CUST7828,Kaolack
+TXN0665,2023-01-04,Chaussures de sport,Mode,3,40000,120000,CUST5972,Thiès
+TXN0666,2023-09-05,Ordinateur Portable,Électronique,4,350000,1400000,CUST6263,Kaolack
+TXN0667,2023-08-09,Sac à dos,Mode,3,15000,45000,CUST7027,Matam
+TXN0668,2023-10-12,Ordinateur Portable,Électronique,4,350000,1400000,CUST5770,Kolda
+TXN0669,2023-12-07,Montre connectée,Électronique,3,75000,225000,CUST8917,Ziguinchor
+TXN0670,2023-12-14,Casque Bluetooth,Accessoires,4,25000,100000,CUST4102,Kolda
+TXN0671,2023-12-11,Chaussures de sport,Mode,2,40000,80000,CUST3096,Matam
+TXN0672,2023-02-06,Bureau ergonomique,Mobilier,4,120000,480000,CUST5836,Kaolack
+TXN0673,2023-10-03,Casque Bluetooth,Accessoires,3,25000,75000,CUST9317,Kolda
+TXN0674,2023-08-11,Ordinateur Portable,Électronique,1,350000,350000,CUST6056,Kolda
+TXN0675,2023-01-29,Ordinateur Portable,Électronique,1,350000,350000,CUST4569,Dakar
+TXN0676,2023-05-24,Clavier mécanique,Accessoires,5,50000,250000,CUST1008,Kaolack
+TXN0677,2023-10-18,Téléphone,Électronique,2,200000,400000,CUST8053,Kaolack
+TXN0678,2023-08-10,Sac à dos,Mode,5,15000,75000,CUST4395,Dakar
+TXN0679,2023-01-07,Téléphone,Électronique,5,200000,1000000,CUST7551,Matam
+TXN0680,2023-12-15,Montre connectée,Électronique,4,75000,300000,CUST3359,Matam
+TXN0681,2023-10-27,Montre connectée,Électronique,4,75000,300000,CUST3819,Tambacounda
+TXN0682,2023-03-24,Casque Bluetooth,Accessoires,1,25000,25000,CUST8716,Kolda
+TXN0683,2023-08-27,Ordinateur Portable,Électronique,4,350000,1400000,CUST1618,Kolda
+TXN0684,2023-02-03,Téléphone,Électronique,4,200000,800000,CUST9739,Thiès
+TXN0685,2023-02-11,Chaussures de sport,Mode,3,40000,120000,CUST5544,Dakar
+TXN0686,2023-04-18,Sac à dos,Mode,5,15000,75000,CUST9135,Tambacounda
+TXN0687,2023-04-08,Montre connectée,Électronique,3,75000,225000,CUST9083,Ziguinchor
+TXN0688,2023-08-12,Casque Bluetooth,Accessoires,5,25000,125000,CUST8017,Thiès
+TXN0689,2023-01-02,Montre connectée,Électronique,2,75000,150000,CUST2182,Matam
+TXN0690,2023-10-01,Bureau ergonomique,Mobilier,4,120000,480000,CUST8817,Saint-Louis
+TXN0691,2023-12-01,Chaussures de sport,Mode,3,40000,120000,CUST7053,Matam
+TXN0692,2023-04-20,Chaussures de sport,Mode,2,40000,80000,CUST7528,Matam
+TXN0693,2023-07-10,Chaussures de sport,Mode,4,40000,160000,CUST1258,Saint-Louis
+TXN0694,2023-02-27,Livre de développement personnel,Livres,2,10000,20000,CUST8695,Saint-Louis
+TXN0695,2023-02-12,Télévision LED,Électronique,1,450000,450000,CUST2653,Thiès
+TXN0696,2024-01-01,Téléphone,Électronique,2,200000,400000,CUST6504,Saint-Louis
+TXN0697,2023-07-21,Clavier mécanique,Accessoires,1,50000,50000,CUST1895,Thiès
+TXN0698,2023-11-28,Téléphone,Électronique,1,200000,200000,CUST1459,Matam
+TXN0699,2023-12-07,Clavier mécanique,Accessoires,2,50000,100000,CUST1263,Kaolack
+TXN0700,2023-08-27,Ordinateur Portable,Électronique,3,350000,1050000,CUST9216,Kaolack
+TXN0701,2023-07-05,Bureau ergonomique,Mobilier,3,120000,360000,CUST2624,Kolda
+TXN0702,2023-05-05,Téléphone,Électronique,2,200000,400000,CUST8611,Ziguinchor
+TXN0703,2023-06-08,Téléphone,Électronique,3,200000,600000,CUST7757,Kaolack
+TXN0704,2023-05-30,Livre de développement personnel,Livres,4,10000,40000,CUST1005,Thiès
+TXN0705,2023-09-03,Clavier mécanique,Accessoires,2,50000,100000,CUST4565,Kaolack
+TXN0706,2023-11-30,Clavier mécanique,Accessoires,4,50000,200000,CUST9190,Ziguinchor
+TXN0707,2023-10-23,Bureau ergonomique,Mobilier,2,120000,240000,CUST2371,Ziguinchor
+TXN0708,2023-03-10,Télévision LED,Électronique,5,450000,2250000,CUST6530,Matam
+TXN0709,2023-05-26,Livre de développement personnel,Livres,4,10000,40000,CUST5398,Saint-Louis
+TXN0710,2023-10-23,Sac à dos,Mode,5,15000,75000,CUST2570,Kaolack
+TXN0711,2023-06-09,Montre connectée,Électronique,1,75000,75000,CUST2943,Dakar
+TXN0712,2023-01-18,Bureau ergonomique,Mobilier,5,120000,600000,CUST7984,Thiès
+TXN0713,2023-11-26,Sac à dos,Mode,3,15000,45000,CUST2172,Kolda
+TXN0714,2023-11-25,Ordinateur Portable,Électronique,5,350000,1750000,CUST8688,Tambacounda
+TXN0715,2023-01-23,Montre connectée,Électronique,1,75000,75000,CUST2628,Thiès
+TXN0716,2023-03-22,Clavier mécanique,Accessoires,5,50000,250000,CUST2964,Dakar
+TXN0717,2023-08-20,Ordinateur Portable,Électronique,1,350000,350000,CUST1486,Matam
+TXN0718,2023-07-02,Télévision LED,Électronique,2,450000,900000,CUST2391,Kolda
+TXN0719,2023-06-29,Montre connectée,Électronique,4,75000,300000,CUST8160,Dakar
+TXN0720,2023-10-24,Sac à dos,Mode,2,15000,30000,CUST1436,Tambacounda
+TXN0721,2023-02-01,Bureau ergonomique,Mobilier,5,120000,600000,CUST3703,Dakar
+TXN0722,2023-06-05,Télévision LED,Électronique,2,450000,900000,CUST5278,Saint-Louis
+TXN0723,2023-01-31,Sac à dos,Mode,2,15000,30000,CUST7574,Ziguinchor
+TXN0724,2023-05-22,Téléphone,Électronique,2,200000,400000,CUST3380,Kolda
+TXN0725,2024-01-01,Montre connectée,Électronique,1,75000,75000,CUST6302,Kolda
+TXN0726,2023-06-06,Montre connectée,Électronique,2,75000,150000,CUST5508,Dakar
+TXN0727,2023-08-17,Chaussures de sport,Mode,3,40000,120000,CUST2840,Thiès
+TXN0728,2023-02-13,Ordinateur Portable,Électronique,2,350000,700000,CUST8507,Kolda
+TXN0729,2023-06-08,Sac à dos,Mode,2,15000,30000,CUST5159,Dakar
+TXN0730,2023-11-28,Bureau ergonomique,Mobilier,2,120000,240000,CUST4099,Dakar
+TXN0731,2023-01-31,Livre de développement personnel,Livres,2,10000,20000,CUST4421,Dakar
+TXN0732,2023-10-05,Télévision LED,Électronique,3,450000,1350000,CUST8391,Thiès
+TXN0733,2023-07-20,Clavier mécanique,Accessoires,5,50000,250000,CUST9002,Dakar
+TXN0734,2023-12-03,Télévision LED,Électronique,2,450000,900000,CUST3895,Thiès
+TXN0735,2023-04-28,Bureau ergonomique,Mobilier,1,120000,120000,CUST2804,Kaolack
+TXN0736,2023-05-22,Ordinateur Portable,Électronique,4,350000,1400000,CUST8896,Ziguinchor
+TXN0737,2023-12-20,Livre de développement personnel,Livres,2,10000,20000,CUST8300,Tambacounda
+TXN0738,2023-07-02,Ordinateur Portable,Électronique,2,350000,700000,CUST6016,Tambacounda
+TXN0739,2023-05-06,Téléphone,Électronique,3,200000,600000,CUST5758,Kolda
+TXN0740,2023-04-29,Casque Bluetooth,Accessoires,1,25000,25000,CUST7387,Thiès
+TXN0741,2023-09-20,Sac à dos,Mode,2,15000,30000,CUST6324,Ziguinchor
+TXN0742,2023-06-05,Casque Bluetooth,Accessoires,1,25000,25000,CUST1387,Dakar
+TXN0743,2023-07-18,Montre connectée,Électronique,4,75000,300000,CUST6381,Saint-Louis
+TXN0744,2023-10-13,Chaussures de sport,Mode,1,40000,40000,CUST8126,Kolda
+TXN0745,2023-10-05,Sac à dos,Mode,1,15000,15000,CUST5871,Thiès
+TXN0746,2023-10-07,Téléphone,Électronique,2,200000,400000,CUST1011,Dakar
+TXN0747,2023-10-20,Livre de développement personnel,Livres,3,10000,30000,CUST7823,Saint-Louis
+TXN0748,2023-12-31,Bureau ergonomique,Mobilier,4,120000,480000,CUST5333,Thiès
+TXN0749,2023-12-15,Montre connectée,Électronique,5,75000,375000,CUST3285,Tambacounda
+TXN0750,2023-04-15,Livre de développement personnel,Livres,3,10000,30000,CUST5742,Matam
+TXN0751,2023-09-02,Sac à dos,Mode,1,15000,15000,CUST5378,Kaolack
+TXN0752,2023-10-02,Montre connectée,Électronique,4,75000,300000,CUST3240,Tambacounda
+TXN0753,2023-09-17,Clavier mécanique,Accessoires,2,50000,100000,CUST1116,Saint-Louis
+TXN0754,2023-07-31,Casque Bluetooth,Accessoires,4,25000,100000,CUST9804,Kaolack
+TXN0755,2023-07-07,Bureau ergonomique,Mobilier,2,120000,240000,CUST6468,Ziguinchor
+TXN0756,2023-03-01,Livre de développement personnel,Livres,5,10000,50000,CUST1881,Kolda
+TXN0757,2023-09-03,Bureau ergonomique,Mobilier,2,120000,240000,CUST8907,Thiès
+TXN0758,2023-11-18,Montre connectée,Électronique,5,75000,375000,CUST3020,Thiès
+TXN0759,2023-06-15,Clavier mécanique,Accessoires,2,50000,100000,CUST4605,Kolda
+TXN0760,2023-11-08,Chaussures de sport,Mode,5,40000,200000,CUST8673,Tambacounda
+TXN0761,2023-08-05,Montre connectée,Électronique,3,75000,225000,CUST7803,Matam
+TXN0762,2023-01-26,Télévision LED,Électronique,2,450000,900000,CUST2486,Matam
+TXN0763,2023-04-12,Chaussures de sport,Mode,2,40000,80000,CUST6767,Matam
+TXN0764,2023-09-04,Chaussures de sport,Mode,5,40000,200000,CUST2548,Kaolack
+TXN0765,2023-08-18,Livre de développement personnel,Livres,2,10000,20000,CUST2579,Saint-Louis
+TXN0766,2023-04-20,Téléphone,Électronique,3,200000,600000,CUST5080,Ziguinchor
+TXN0767,2023-08-27,Casque Bluetooth,Accessoires,4,25000,100000,CUST4250,Thiès
+TXN0768,2023-03-01,Clavier mécanique,Accessoires,4,50000,200000,CUST3220,Tambacounda
+TXN0769,2023-11-21,Casque Bluetooth,Accessoires,2,25000,50000,CUST7989,Kolda
+TXN0770,2023-06-20,Ordinateur Portable,Électronique,3,350000,1050000,CUST9227,Kaolack
+TXN0771,2023-09-07,Chaussures de sport,Mode,2,40000,80000,CUST1562,Thiès
+TXN0772,2023-10-20,Chaussures de sport,Mode,5,40000,200000,CUST8291,Kolda
+TXN0773,2023-07-14,Livre de développement personnel,Livres,5,10000,50000,CUST9624,Kaolack
+TXN0774,2023-01-04,Télévision LED,Électronique,4,450000,1800000,CUST9526,Kolda
+TXN0775,2023-05-09,Livre de développement personnel,Livres,3,10000,30000,CUST6408,Matam
+TXN0776,2023-01-10,Télévision LED,Électronique,5,450000,2250000,CUST7392,Tambacounda
+TXN0777,2023-03-20,Montre connectée,Électronique,4,75000,300000,CUST2101,Saint-Louis
+TXN0778,2023-04-29,Sac à dos,Mode,2,15000,30000,CUST2764,Tambacounda
+TXN0779,2023-08-05,Télévision LED,Électronique,1,450000,450000,CUST1785,Ziguinchor
+TXN0780,2023-04-15,Livre de développement personnel,Livres,2,10000,20000,CUST6142,Kaolack
+TXN0781,2023-01-30,Montre connectée,Électronique,1,75000,75000,CUST9818,Saint-Louis
+TXN0782,2023-10-28,Livre de développement personnel,Livres,5,10000,50000,CUST3373,Matam
+TXN0783,2023-11-28,Livre de développement personnel,Livres,2,10000,20000,CUST3786,Kaolack
+TXN0784,2023-04-17,Télévision LED,Électronique,4,450000,1800000,CUST6507,Matam
+TXN0785,2023-02-25,Bureau ergonomique,Mobilier,4,120000,480000,CUST2347,Kaolack
+TXN0786,2023-04-03,Téléphone,Électronique,2,200000,400000,CUST7962,Saint-Louis
+TXN0787,2023-04-24,Clavier mécanique,Accessoires,4,50000,200000,CUST8082,Thiès
+TXN0788,2023-11-05,Bureau ergonomique,Mobilier,1,120000,120000,CUST4924,Tambacounda
+TXN0789,2023-12-28,Téléphone,Électronique,4,200000,800000,CUST7609,Kaolack
+TXN0790,2023-03-06,Chaussures de sport,Mode,4,40000,160000,CUST1662,Kaolack
+TXN0791,2023-03-27,Bureau ergonomique,Mobilier,5,120000,600000,CUST9828,Thiès
+TXN0792,2023-09-08,Bureau ergonomique,Mobilier,3,120000,360000,CUST7147,Saint-Louis
+TXN0793,2023-09-17,Casque Bluetooth,Accessoires,2,25000,50000,CUST9689,Kaolack
+TXN0794,2023-07-18,Télévision LED,Électronique,4,450000,1800000,CUST3188,Thiès
+TXN0795,2023-08-19,Ordinateur Portable,Électronique,4,350000,1400000,CUST5048,Tambacounda
+TXN0796,2023-09-05,Chaussures de sport,Mode,2,40000,80000,CUST3054,Tambacounda
+TXN0797,2023-03-15,Ordinateur Portable,Électronique,3,350000,1050000,CUST5564,Kaolack
+TXN0798,2023-11-07,Montre connectée,Électronique,3,75000,225000,CUST3589,Ziguinchor
+TXN0799,2023-10-30,Chaussures de sport,Mode,5,40000,200000,CUST5173,Ziguinchor
+TXN0800,2023-12-19,Casque Bluetooth,Accessoires,1,25000,25000,CUST4042,Kaolack
+TXN0801,2023-12-13,Casque Bluetooth,Accessoires,2,25000,50000,CUST2357,Dakar
+TXN0802,2023-10-06,Clavier mécanique,Accessoires,5,50000,250000,CUST5384,Tambacounda
+TXN0803,2023-11-29,Chaussures de sport,Mode,2,40000,80000,CUST6540,Matam
+TXN0804,2023-11-14,Casque Bluetooth,Accessoires,1,25000,25000,CUST6885,Tambacounda
+TXN0805,2023-09-10,Télévision LED,Électronique,3,450000,1350000,CUST6389,Kolda
+TXN0806,2023-12-27,Ordinateur Portable,Électronique,2,350000,700000,CUST6081,Saint-Louis
+TXN0807,2023-07-23,Téléphone,Électronique,1,200000,200000,CUST4849,Tambacounda
+TXN0808,2023-02-14,Téléphone,Électronique,5,200000,1000000,CUST8662,Matam
+TXN0809,2023-09-24,Télévision LED,Électronique,3,450000,1350000,CUST8572,Kolda
+TXN0810,2023-01-25,Montre connectée,Électronique,2,75000,150000,CUST5330,Dakar
+TXN0811,2023-12-20,Sac à dos,Mode,3,15000,45000,CUST4084,Tambacounda
+TXN0812,2023-10-27,Chaussures de sport,Mode,1,40000,40000,CUST4730,Thiès
+TXN0813,2023-07-14,Bureau ergonomique,Mobilier,2,120000,240000,CUST6501,Kaolack
+TXN0814,2023-07-19,Casque Bluetooth,Accessoires,4,25000,100000,CUST6590,Kolda
+TXN0815,2023-01-06,Livre de développement personnel,Livres,4,10000,40000,CUST1267,Saint-Louis
+TXN0816,2023-08-21,Télévision LED,Électronique,5,450000,2250000,CUST7300,Dakar
+TXN0817,2023-06-30,Sac à dos,Mode,5,15000,75000,CUST1595,Tambacounda
+TXN0818,2023-07-06,Chaussures de sport,Mode,1,40000,40000,CUST9977,Kaolack
+TXN0819,2023-07-26,Téléphone,Électronique,1,200000,200000,CUST5715,Saint-Louis
+TXN0820,2023-09-27,Télévision LED,Électronique,2,450000,900000,CUST2990,Tambacounda
+TXN0821,2023-11-20,Téléphone,Électronique,2,200000,400000,CUST6041,Saint-Louis
+TXN0822,2023-11-11,Téléphone,Électronique,3,200000,600000,CUST5362,Matam
+TXN0823,2023-01-25,Clavier mécanique,Accessoires,4,50000,200000,CUST8176,Matam
+TXN0824,2023-04-24,Casque Bluetooth,Accessoires,5,25000,125000,CUST5395,Kolda
+TXN0825,2023-01-26,Télévision LED,Électronique,2,450000,900000,CUST4900,Dakar
+TXN0826,2023-12-17,Clavier mécanique,Accessoires,2,50000,100000,CUST9672,Matam
+TXN0827,2023-12-19,Téléphone,Électronique,5,200000,1000000,CUST5152,Thiès
+TXN0828,2023-01-08,Télévision LED,Électronique,3,450000,1350000,CUST4896,Kolda
+TXN0829,2023-07-02,Ordinateur Portable,Électronique,3,350000,1050000,CUST6930,Thiès
+TXN0830,2023-06-23,Bureau ergonomique,Mobilier,5,120000,600000,CUST5181,Saint-Louis
+TXN0831,2023-04-13,Livre de développement personnel,Livres,3,10000,30000,CUST5544,Kolda
+TXN0832,2023-08-17,Chaussures de sport,Mode,2,40000,80000,CUST4747,Kaolack
+TXN0833,2023-05-09,Chaussures de sport,Mode,4,40000,160000,CUST4122,Ziguinchor
+TXN0834,2023-10-17,Livre de développement personnel,Livres,5,10000,50000,CUST5913,Tambacounda
+TXN0835,2023-01-27,Livre de développement personnel,Livres,3,10000,30000,CUST8097,Thiès
+TXN0836,2023-03-08,Téléphone,Électronique,5,200000,1000000,CUST6549,Matam
+TXN0837,2023-01-20,Bureau ergonomique,Mobilier,5,120000,600000,CUST5906,Tambacounda
+TXN0838,2023-06-28,Sac à dos,Mode,1,15000,15000,CUST2795,Thiès
+TXN0839,2023-02-16,Bureau ergonomique,Mobilier,5,120000,600000,CUST6571,Dakar
+TXN0840,2023-01-26,Télévision LED,Électronique,5,450000,2250000,CUST9986,Kolda
+TXN0841,2023-03-16,Bureau ergonomique,Mobilier,1,120000,120000,CUST7948,Thiès
+TXN0842,2023-12-24,Bureau ergonomique,Mobilier,4,120000,480000,CUST9439,Thiès
+TXN0843,2023-06-21,Ordinateur Portable,Électronique,2,350000,700000,CUST5069,Dakar
+TXN0844,2023-11-20,Casque Bluetooth,Accessoires,5,25000,125000,CUST6098,Kaolack
+TXN0845,2023-05-22,Montre connectée,Électronique,4,75000,300000,CUST9403,Kaolack
+TXN0846,2023-12-14,Livre de développement personnel,Livres,1,10000,10000,CUST3685,Matam
+TXN0847,2023-01-04,Clavier mécanique,Accessoires,5,50000,250000,CUST2864,Saint-Louis
+TXN0848,2023-04-09,Montre connectée,Électronique,3,75000,225000,CUST7944,Matam
+TXN0849,2023-07-29,Ordinateur Portable,Électronique,2,350000,700000,CUST8755,Matam
+TXN0850,2023-08-19,Montre connectée,Électronique,3,75000,225000,CUST2192,Kolda
+TXN0851,2023-05-24,Téléphone,Électronique,1,200000,200000,CUST9422,Saint-Louis
+TXN0852,2023-12-26,Clavier mécanique,Accessoires,1,50000,50000,CUST7888,Kaolack
+TXN0853,2023-02-13,Livre de développement personnel,Livres,1,10000,10000,CUST6586,Thiès
+TXN0854,2023-12-30,Ordinateur Portable,Électronique,5,350000,1750000,CUST6863,Tambacounda
+TXN0855,2023-01-13,Téléphone,Électronique,5,200000,1000000,CUST4504,Kolda
+TXN0856,2023-11-19,Clavier mécanique,Accessoires,4,50000,200000,CUST2925,Ziguinchor
+TXN0857,2023-08-20,Clavier mécanique,Accessoires,2,50000,100000,CUST6492,Matam
+TXN0858,2023-09-14,Télévision LED,Électronique,4,450000,1800000,CUST9148,Matam
+TXN0859,2023-10-04,Livre de développement personnel,Livres,1,10000,10000,CUST8411,Tambacounda
+TXN0860,2023-03-31,Chaussures de sport,Mode,1,40000,40000,CUST8291,Thiès
+TXN0861,2023-10-15,Casque Bluetooth,Accessoires,2,25000,50000,CUST6796,Ziguinchor
+TXN0862,2023-04-17,Livre de développement personnel,Livres,3,10000,30000,CUST1442,Kolda
+TXN0863,2023-05-02,Clavier mécanique,Accessoires,5,50000,250000,CUST5744,Matam
+TXN0864,2023-05-06,Chaussures de sport,Mode,1,40000,40000,CUST6507,Saint-Louis
+TXN0865,2023-09-22,Montre connectée,Électronique,3,75000,225000,CUST4888,Saint-Louis
+TXN0866,2023-10-21,Télévision LED,Électronique,2,450000,900000,CUST5688,Dakar
+TXN0867,2023-01-20,Montre connectée,Électronique,2,75000,150000,CUST8635,Dakar
+TXN0868,2023-05-20,Chaussures de sport,Mode,4,40000,160000,CUST5534,Matam
+TXN0869,2023-11-06,Montre connectée,Électronique,4,75000,300000,CUST6357,Dakar
+TXN0870,2023-08-21,Sac à dos,Mode,2,15000,30000,CUST2460,Dakar
+TXN0871,2023-02-01,Casque Bluetooth,Accessoires,5,25000,125000,CUST9026,Tambacounda
+TXN0872,2023-09-16,Téléphone,Électronique,5,200000,1000000,CUST8757,Kolda
+TXN0873,2023-02-22,Chaussures de sport,Mode,5,40000,200000,CUST6875,Kolda
+TXN0874,2023-10-23,Téléphone,Électronique,2,200000,400000,CUST2739,Kaolack
+TXN0875,2023-06-23,Sac à dos,Mode,5,15000,75000,CUST6938,Tambacounda
+TXN0876,2023-08-17,Casque Bluetooth,Accessoires,5,25000,125000,CUST2155,Ziguinchor
+TXN0877,2023-07-17,Télévision LED,Électronique,4,450000,1800000,CUST6798,Tambacounda
+TXN0878,2023-11-22,Télévision LED,Électronique,5,450000,2250000,CUST7979,Dakar
+TXN0879,2023-03-04,Téléphone,Électronique,4,200000,800000,CUST3353,Kolda
+TXN0880,2023-06-30,Bureau ergonomique,Mobilier,3,120000,360000,CUST1871,Dakar
+TXN0881,2023-11-15,Casque Bluetooth,Accessoires,3,25000,75000,CUST3218,Kolda
+TXN0882,2023-02-08,Livre de développement personnel,Livres,4,10000,40000,CUST9394,Ziguinchor
+TXN0883,2023-03-30,Téléphone,Électronique,5,200000,1000000,CUST3809,Kolda
+TXN0884,2023-04-02,Montre connectée,Électronique,1,75000,75000,CUST9947,Tambacounda
+TXN0885,2023-07-16,Téléphone,Électronique,2,200000,400000,CUST3487,Saint-Louis
+TXN0886,2023-11-26,Livre de développement personnel,Livres,3,10000,30000,CUST1160,Ziguinchor
+TXN0887,2023-05-12,Livre de développement personnel,Livres,1,10000,10000,CUST2015,Kolda
+TXN0888,2023-01-05,Chaussures de sport,Mode,3,40000,120000,CUST1569,Tambacounda
+TXN0889,2023-12-01,Bureau ergonomique,Mobilier,5,120000,600000,CUST8555,Matam
+TXN0890,2023-10-02,Sac à dos,Mode,2,15000,30000,CUST2655,Thiès
+TXN0891,2023-06-18,Ordinateur Portable,Électronique,5,350000,1750000,CUST5724,Kaolack
+TXN0892,2023-05-09,Chaussures de sport,Mode,3,40000,120000,CUST8245,Dakar
+TXN0893,2023-04-06,Bureau ergonomique,Mobilier,3,120000,360000,CUST4022,Dakar
+TXN0894,2023-05-06,Chaussures de sport,Mode,5,40000,200000,CUST6978,Kaolack
+TXN0895,2023-08-27,Ordinateur Portable,Électronique,5,350000,1750000,CUST6055,Thiès
+TXN0896,2023-03-07,Bureau ergonomique,Mobilier,2,120000,240000,CUST7765,Tambacounda
+TXN0897,2023-08-01,Clavier mécanique,Accessoires,1,50000,50000,CUST9391,Ziguinchor
+TXN0898,2023-07-26,Téléphone,Électronique,4,200000,800000,CUST4598,Ziguinchor
+TXN0899,2023-04-13,Livre de développement personnel,Livres,1,10000,10000,CUST5757,Ziguinchor
+TXN0900,2023-02-12,Chaussures de sport,Mode,1,40000,40000,CUST4179,Kolda
+TXN0901,2023-08-20,Casque Bluetooth,Accessoires,1,25000,25000,CUST1913,Tambacounda
+TXN0902,2023-03-12,Ordinateur Portable,Électronique,1,350000,350000,CUST1179,Dakar
+TXN0903,2023-01-18,Sac à dos,Mode,1,15000,15000,CUST3371,Saint-Louis
+TXN0904,2023-07-23,Chaussures de sport,Mode,4,40000,160000,CUST2455,Kaolack
+TXN0905,2023-09-17,Bureau ergonomique,Mobilier,1,120000,120000,CUST4027,Dakar
+TXN0906,2023-02-11,Livre de développement personnel,Livres,1,10000,10000,CUST3758,Kolda
+TXN0907,2023-07-01,Clavier mécanique,Accessoires,1,50000,50000,CUST9061,Thiès
+TXN0908,2023-11-05,Livre de développement personnel,Livres,5,10000,50000,CUST1845,Matam
+TXN0909,2023-02-06,Livre de développement personnel,Livres,2,10000,20000,CUST4861,Dakar
+TXN0910,2023-01-03,Montre connectée,Électronique,3,75000,225000,CUST7151,Dakar
+TXN0911,2023-02-12,Télévision LED,Électronique,5,450000,2250000,CUST9347,Kaolack
+TXN0912,2023-08-24,Téléphone,Électronique,5,200000,1000000,CUST1811,Dakar
+TXN0913,2023-03-30,Livre de développement personnel,Livres,2,10000,20000,CUST7225,Tambacounda
+TXN0914,2023-07-09,Ordinateur Portable,Électronique,1,350000,350000,CUST2306,Dakar
+TXN0915,2023-12-29,Ordinateur Portable,Électronique,4,350000,1400000,CUST3358,Tambacounda
+TXN0916,2023-09-20,Télévision LED,Électronique,5,450000,2250000,CUST4300,Kolda
+TXN0917,2023-03-03,Casque Bluetooth,Accessoires,3,25000,75000,CUST7219,Kaolack
+TXN0918,2023-08-14,Montre connectée,Électronique,4,75000,300000,CUST3101,Dakar
+TXN0919,2023-08-01,Chaussures de sport,Mode,5,40000,200000,CUST9328,Dakar
+TXN0920,2023-08-04,Chaussures de sport,Mode,4,40000,160000,CUST7690,Tambacounda
+TXN0921,2023-05-22,Clavier mécanique,Accessoires,2,50000,100000,CUST2894,Tambacounda
+TXN0922,2023-04-03,Chaussures de sport,Mode,1,40000,40000,CUST1108,Thiès
+TXN0923,2023-04-10,Montre connectée,Électronique,4,75000,300000,CUST1051,Kolda
+TXN0924,2023-04-26,Téléphone,Électronique,3,200000,600000,CUST2428,Thiès
+TXN0925,2023-06-06,Clavier mécanique,Accessoires,1,50000,50000,CUST2090,Thiès
+TXN0926,2023-03-28,Téléphone,Électronique,5,200000,1000000,CUST9937,Dakar
+TXN0927,2023-05-15,Chaussures de sport,Mode,4,40000,160000,CUST4688,Thiès
+TXN0928,2023-08-19,Télévision LED,Électronique,4,450000,1800000,CUST2563,Tambacounda
+TXN0929,2023-07-10,Chaussures de sport,Mode,2,40000,80000,CUST6017,Matam
+TXN0930,2023-01-31,Clavier mécanique,Accessoires,1,50000,50000,CUST8883,Thiès
+TXN0931,2023-07-28,Télévision LED,Électronique,5,450000,2250000,CUST1305,Thiès
+TXN0932,2023-04-19,Clavier mécanique,Accessoires,4,50000,200000,CUST8320,Saint-Louis
+TXN0933,2023-03-06,Chaussures de sport,Mode,2,40000,80000,CUST1478,Kaolack
+TXN0934,2023-11-04,Téléphone,Électronique,4,200000,800000,CUST2116,Thiès
+TXN0935,2023-06-08,Télévision LED,Électronique,1,450000,450000,CUST2359,Thiès
+TXN0936,2023-11-09,Montre connectée,Électronique,1,75000,75000,CUST8930,Kaolack
+TXN0937,2023-01-12,Sac à dos,Mode,3,15000,45000,CUST7991,Matam
+TXN0938,2023-12-29,Chaussures de sport,Mode,3,40000,120000,CUST9826,Dakar
+TXN0939,2023-04-03,Clavier mécanique,Accessoires,1,50000,50000,CUST6459,Dakar
+TXN0940,2023-08-14,Livre de développement personnel,Livres,4,10000,40000,CUST9865,Saint-Louis
+TXN0941,2023-01-18,Bureau ergonomique,Mobilier,3,120000,360000,CUST2469,Matam
+TXN0942,2023-12-15,Télévision LED,Électronique,3,450000,1350000,CUST9819,Ziguinchor
+TXN0943,2023-02-10,Sac à dos,Mode,3,15000,45000,CUST4121,Saint-Louis
+TXN0944,2023-07-08,Bureau ergonomique,Mobilier,3,120000,360000,CUST5788,Matam
+TXN0945,2023-09-19,Casque Bluetooth,Accessoires,1,25000,25000,CUST8500,Matam
+TXN0946,2023-05-07,Casque Bluetooth,Accessoires,3,25000,75000,CUST7297,Matam
+TXN0947,2023-12-03,Télévision LED,Électronique,1,450000,450000,CUST1998,Thiès
+TXN0948,2023-09-04,Téléphone,Électronique,4,200000,800000,CUST9506,Kolda
+TXN0949,2023-12-30,Casque Bluetooth,Accessoires,2,25000,50000,CUST6545,Tambacounda
+TXN0950,2023-03-31,Chaussures de sport,Mode,3,40000,120000,CUST5369,Matam
+TXN0951,2023-07-12,Casque Bluetooth,Accessoires,4,25000,100000,CUST8197,Matam
+TXN0952,2023-02-17,Bureau ergonomique,Mobilier,1,120000,120000,CUST7760,Kolda
+TXN0953,2023-11-27,Sac à dos,Mode,1,15000,15000,CUST1465,Dakar
+TXN0954,2023-04-24,Clavier mécanique,Accessoires,2,50000,100000,CUST2063,Kaolack
+TXN0955,2023-10-18,Montre connectée,Électronique,5,75000,375000,CUST5761,Thiès
+TXN0956,2023-06-01,Chaussures de sport,Mode,4,40000,160000,CUST8436,Thiès
+TXN0957,2023-01-03,Bureau ergonomique,Mobilier,3,120000,360000,CUST1606,Matam
+TXN0958,2023-08-30,Casque Bluetooth,Accessoires,3,25000,75000,CUST8194,Thiès
+TXN0959,2023-10-27,Sac à dos,Mode,4,15000,60000,CUST8730,Ziguinchor
+TXN0960,2023-11-24,Sac à dos,Mode,1,15000,15000,CUST2261,Kaolack
+TXN0961,2023-09-12,Téléphone,Électronique,5,200000,1000000,CUST5222,Thiès
+TXN0962,2023-12-18,Clavier mécanique,Accessoires,1,50000,50000,CUST4885,Kaolack
+TXN0963,2023-12-03,Clavier mécanique,Accessoires,2,50000,100000,CUST5572,Saint-Louis
+TXN0964,2023-10-28,Télévision LED,Électronique,4,450000,1800000,CUST9334,Matam
+TXN0965,2023-08-12,Ordinateur Portable,Électronique,4,350000,1400000,CUST4227,Saint-Louis
+TXN0966,2023-11-13,Ordinateur Portable,Électronique,5,350000,1750000,CUST9170,Matam
+TXN0967,2023-09-02,Bureau ergonomique,Mobilier,2,120000,240000,CUST6286,Dakar
+TXN0968,2023-02-08,Livre de développement personnel,Livres,3,10000,30000,CUST5971,Thiès
+TXN0969,2023-09-09,Casque Bluetooth,Accessoires,5,25000,125000,CUST8822,Saint-Louis
+TXN0970,2023-04-19,Téléphone,Électronique,1,200000,200000,CUST1107,Ziguinchor
+TXN0971,2023-10-04,Bureau ergonomique,Mobilier,1,120000,120000,CUST7125,Kaolack
+TXN0972,2023-04-02,Casque Bluetooth,Accessoires,2,25000,50000,CUST9847,Matam
+TXN0973,2023-10-08,Casque Bluetooth,Accessoires,2,25000,50000,CUST9081,Kaolack
+TXN0974,2023-10-05,Chaussures de sport,Mode,5,40000,200000,CUST6954,Dakar
+TXN0975,2023-06-15,Ordinateur Portable,Électronique,3,350000,1050000,CUST2386,Matam
+TXN0976,2023-09-03,Bureau ergonomique,Mobilier,4,120000,480000,CUST1867,Dakar
+TXN0977,2023-01-31,Téléphone,Électronique,3,200000,600000,CUST9271,Kaolack
+TXN0978,2023-06-27,Montre connectée,Électronique,5,75000,375000,CUST2069,Tambacounda
+TXN0979,2023-07-17,Chaussures de sport,Mode,1,40000,40000,CUST5957,Matam
+TXN0980,2023-08-28,Bureau ergonomique,Mobilier,1,120000,120000,CUST6821,Dakar
+TXN0981,2023-09-12,Montre connectée,Électronique,4,75000,300000,CUST3380,Kolda
+TXN0982,2023-02-18,Télévision LED,Électronique,5,450000,2250000,CUST8499,Tambacounda
+TXN0983,2023-04-16,Ordinateur Portable,Électronique,2,350000,700000,CUST3371,Saint-Louis
+TXN0984,2023-03-30,Chaussures de sport,Mode,5,40000,200000,CUST6346,Ziguinchor
+TXN0985,2023-11-17,Chaussures de sport,Mode,3,40000,120000,CUST2474,Kaolack
+TXN0986,2023-09-21,Chaussures de sport,Mode,2,40000,80000,CUST3365,Kaolack
+TXN0987,2023-07-12,Bureau ergonomique,Mobilier,3,120000,360000,CUST2235,Thiès
+TXN0988,2023-10-04,Montre connectée,Électronique,2,75000,150000,CUST9059,Kolda
+TXN0989,2023-09-09,Télévision LED,Électronique,4,450000,1800000,CUST8838,Tambacounda
+TXN0990,2023-03-11,Ordinateur Portable,Électronique,2,350000,700000,CUST2409,Thiès
+TXN0991,2023-01-04,Montre connectée,Électronique,2,75000,150000,CUST2351,Tambacounda
+TXN0992,2023-07-13,Casque Bluetooth,Accessoires,1,25000,25000,CUST7856,Saint-Louis
+TXN0993,2023-06-15,Télévision LED,Électronique,5,450000,2250000,CUST2423,Thiès
+TXN0994,2023-11-24,Chaussures de sport,Mode,2,40000,80000,CUST9517,Ziguinchor
+TXN0995,2023-07-05,Casque Bluetooth,Accessoires,2,25000,50000,CUST1015,Matam
+TXN0996,2023-03-23,Montre connectée,Électronique,3,75000,225000,CUST3963,Kolda
+TXN0997,2023-02-25,Montre connectée,Électronique,3,75000,225000,CUST5412,Kolda
+TXN0998,2023-10-13,Téléphone,Électronique,4,200000,800000,CUST9981,Tambacounda
+TXN0999,2023-01-31,Bureau ergonomique,Mobilier,5,120000,600000,CUST8508,Thiès
+TXN1000,2023-04-01,Clavier mécanique,Accessoires,2,50000,100000,CUST3024,Tambacounda
