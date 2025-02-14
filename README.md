@@ -17,7 +17,7 @@ cd Analyse-ventes-senegal
 
 
 # Installer les dépendances
-Assurez-vous d'avoir Python installé, puis exécutez :
+Assurez-vous d'avoir **Python** installé, puis exécutez :
 
 pip install -r requirements.txt
 
@@ -38,7 +38,7 @@ python script.py
 ![Meilleures ventes](https://github.com/FatoubDieng/Analyse-ventes-senegal/blob/main/images/produits_top.png)
 
 # Ventes par région 
- 
+
 ![Ventes par région](https://github.com/FatoubDieng/Analyse-ventes-senegal/blob/main/images/regions_top.png)
 
 # Contribution
