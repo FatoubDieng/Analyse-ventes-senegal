@@ -5,6 +5,7 @@ import seaborn as sns
 plt.show()
 print(" Le script a bien démarré !")
 
+<<<<<<< Updated upstream
 //charger les donnees
 df = pd.read_csv("ventes_senegal.csv")
 
@@ -28,6 +29,32 @@ print(df.describe())
 produits_top = df.groupby("Produit")["Total_Vente"].sum().sort_values(ascending=False)
 
 //  Affichage des meilleures ventes
+=======
+
+#  Chargement des données
+df = pd.read_csv("ventes_senegal.csv")
+
+# Afficher les premières lignes
+print(" Aperçu du dataset :")
+print(df.head())
+
+#  Vérifier les informations du dataset
+print("\n Infos du dataset :")
+print(df.info())
+
+# Vérifier les valeurs manquantes
+print("\nValeurs manquantes :")
+print(df.isnull().sum())
+
+# Statistiques générales
+print("\n Statistiques générales :")
+print(df.describe())
+
+# Analyse des ventes par produit
+produits_top = df.groupby("Produit")["Total_Vente"].sum().sort_values(ascending=False)
+
+#  Affichage des meilleures ventes
+>>>>>>> Stashed changes
 plt.figure(figsize=(10, 5))
 sns.barplot(x=produits_top.index, y=produits_top.values, palette="viridis")
 plt.xticks(rotation=45)
@@ -36,10 +63,17 @@ plt.xlabel("Produit")
 plt.ylabel("Total des Ventes (FCFA)")
 plt.show()
 
+<<<<<<< Updated upstream
 // Analyse des ventes par région
 regions_top = df.groupby("Region")["Total_Vente"].sum().sort_values(ascending=False)
 
 //  Affichage des meilleures régions
+=======
+# Analyse des ventes par région
+regions_top = df.groupby("Region")["Total_Vente"].sum().sort_values(ascending=False)
+
+#  Affichage des meilleures régions
+>>>>>>> Stashed changes
 plt.figure(figsize=(8, 4))
 sns.barplot(x=regions_top.index, y=regions_top.values, palette="coolwarm")
 plt.title(" Ventes par Région")
