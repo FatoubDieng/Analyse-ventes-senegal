@@ -1,4 +1,3 @@
-# 📌 Importation des bibliothèques nécessaires  
 import pandas as pd  # Manipulation des données
 import matplotlib.pyplot as plt  # Création de graphiques
 import seaborn as sns  # Visualisation avancée
