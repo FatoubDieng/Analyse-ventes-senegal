@@ -43,8 +43,5 @@ python script.py
 
 # Contribution
 
-Les contributions sont les bienvenues ! N'hésitez pas à forker le projet et proposer des améliorations.
-
-# Licence
-Ce projet est sous licence MIT.
+Les contributions sont les bienvenues ! 
 
