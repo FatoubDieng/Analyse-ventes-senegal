@@ -1,82 +1,51 @@
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
+# 📌 Importation des bibliothèques nécessaires  
+import pandas as pd  # Manipulation des données
+import matplotlib.pyplot as plt  # Création de graphiques
+import seaborn as sns  # Visualisation avancée
 
-plt.show()
+# Vérification du bon démarrage du script
 print(" Le script a bien démarré !")
 
-<<<<<<< Updated upstream
-//charger les donnees
-df = pd.read_csv("ventes_senegal.csv")
+#  Chargement des données  
+df = pd.read_csv("ventes_senegal.csv")  # Charge le fichier CSV
 
-// affichage des 1er lignes
+#  Aperçu des premières lignes  
 print(" Aperçu du dataset :")
-print(df.head())
+print(df.head())  # Affiche les 5 premières lignes
 
-// verification des informations du dataset
+#  Informations sur le dataset  
 print("\n Infos du dataset :")
-print(df.info())
+print(df.info())  # Affiche les types de données et les valeurs manquantes
 
-// verification des valeurs manquantes
+#  Vérification des valeurs manquantes  
 print("\n Valeurs manquantes :")
-print(df.isnull().sum())
+print(df.isnull().sum())  # Compte les valeurs manquantes par colonne
 
-//  Statistiques générales
+#  Statistiques générales  
 print("\n Statistiques générales :")
-print(df.describe())
+print(df.describe())  # Statistiques sur les colonnes numériques
 
-// Analyse des ventes par produit
+# Analyse des ventes par produit  
 produits_top = df.groupby("Produit")["Total_Vente"].sum().sort_values(ascending=False)
+# Trie les produits du plus vendu au moins vendu
 
-//  Affichage des meilleures ventes
-=======
+# Affichage des meilleures ventes par produit  
+plt.figure(figsize=(10, 5))  # Définition de la taille du graphique
+sns.barplot(x=produits_top.index, y=produits_top.values, palette="viridis")  # Graphique en barres
+plt.xticks(rotation=45)  # Rotation des noms des produits
+plt.title(" Meilleurs Produits en termes de Ventes")  # Titre du graphique
+plt.xlabel("Produit")  # Étiquette axe X
+plt.ylabel("Total des Ventes (FCFA)")  # Étiquette axe Y
+plt.show()  # Affichage du graphique
 
-#  Chargement des données
-df = pd.read_csv("ventes_senegal.csv")
-
-# Afficher les premières lignes
-print(" Aperçu du dataset :")
-print(df.head())
-
-#  Vérifier les informations du dataset
-print("\n Infos du dataset :")
-print(df.info())
-
-# Vérifier les valeurs manquantes
-print("\nValeurs manquantes :")
-print(df.isnull().sum())
-
-# Statistiques générales
-print("\n Statistiques générales :")
-print(df.describe())
-
-# Analyse des ventes par produit
-produits_top = df.groupby("Produit")["Total_Vente"].sum().sort_values(ascending=False)
-
-#  Affichage des meilleures ventes
->>>>>>> Stashed changes
-plt.figure(figsize=(10, 5))
-sns.barplot(x=produits_top.index, y=produits_top.values, palette="viridis")
-plt.xticks(rotation=45)
-plt.title(" Meilleurs Produits en termes de Ventes")
-plt.xlabel("Produit")
-plt.ylabel("Total des Ventes (FCFA)")
-plt.show()
-
-<<<<<<< Updated upstream
-// Analyse des ventes par région
+#  Analyse des ventes par région  
 regions_top = df.groupby("Region")["Total_Vente"].sum().sort_values(ascending=False)
+# Trie les régions du plus vendu au moins vendu
 
-//  Affichage des meilleures régions
-=======
-# Analyse des ventes par région
-regions_top = df.groupby("Region")["Total_Vente"].sum().sort_values(ascending=False)
-
-#  Affichage des meilleures régions
->>>>>>> Stashed changes
+#  Affichage des ventes par région  
 plt.figure(figsize=(8, 4))
-sns.barplot(x=regions_top.index, y=regions_top.values, palette="coolwarm")
-plt.title(" Ventes par Région")
+sns.barplot(x=regions_top.index, y=regions_top.values, palette="coolwarm")  # Graphique en barres
+plt.title("Ventes par Région")
 plt.xlabel("Région")
 plt.ylabel("Total des Ventes (FCFA)")
 plt.show()
